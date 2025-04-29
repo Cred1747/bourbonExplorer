@@ -1,0 +1,10 @@
+name: shiny
+title:
+username: cred1747
+account: cred1747
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14646901
+bundleId: 10201518
+url: https://cred1747.shinyapps.io/shiny/
+version: 1
