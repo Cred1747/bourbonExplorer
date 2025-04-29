@@ -24,3 +24,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/Cred1747/bourbonExplorer
+BugReports: https://github.com/Cred1747/bourbonExplorer/issues
