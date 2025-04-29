@@ -1,0 +1,26 @@
+Package: bourbonExplorer
+Title: Bourbon Explore
+Version: 0.0.0.9000
+Authors@R: 
+    "Chris Reddish <ChristopherReddish@USF.edu> [aut, cre]"
+Description: The BourbonAnalytics package provides tools to explore and analyze bourbon ratings,
+    prices, ABV, and aging. It allows users to visualize relationships between variables, predict bourbon
+    ratings using regression models, identify high-value bottles, and find bourbons that outperform their
+    predicted scores. The package is designed for bourbon enthusiasts and data science learners to
+    combine statistical analysis with practical, real-world data exploration.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    ggplot2,
+    readr,
+    shiny,
+    shinythemes,
+    stringr,
+    tidyr
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

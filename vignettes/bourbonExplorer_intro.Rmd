@@ -1,0 +1,16 @@
+---
+title: "Introduction to bourbonExplorer"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to bourbonExplorer}
+  %\VignetteEngine{knitr::rmarkdown}
+---
+
+## bourbonExplorer Overview
+
+`bourbonExplorer` is a Shiny app designed to interactively explore bourbon attributes such as Price, ABV, Ratings, and more.
+
+## Installation
+
+```r
+devtools::install_github("your-github-username/bourbonExplorer")
