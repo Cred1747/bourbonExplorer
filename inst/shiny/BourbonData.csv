@@ -12,7 +12,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "William Larue Weller 12 year old (2018 Buffalo Trace Antique Collection), 62.85%",99,62.9,96,2018,Buffalo Trace Distillery,undisclosed (wheated mash bill),"caramel, vanilla, oak, spice, cinnamon",12
 "Booker s 2014-01  25th Anniversary Batch,  65.4%",100,65.4,96,2014,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, vanilla, spicy, oak, cinnamon",10.25
 "Jefferson s Presidential Select, 18 year old, 47%",110,47,96,1991,Castle & Key Distillery (sourced by Jefferson's),undisclosed,"oak, vanilla, caramel, spice, dried fruit",18
-"Elijah Craig 20 year old (Barrel No. 3735), 45%",150,45,96,3735,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","oak, caramel, vanilla, spice, dried fruit",20
+"Elijah Craig 20 year old (Barrel No. 3735), 45%",150,45,96,2011,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","oak, caramel, vanilla, spice, dried fruit",20
 "Four Roses Small Batch Limited Edition Al Young s 50th Anniversary (2017 Release), 54.49%",150,54.5,96,2017,Four Roses Distillery,undisclosed,"fruity, spicy, caramel, oak, vanilla",15.75
 "Parker's Heritage Collection, 27 year old, 48%",200,48,96,2008,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","oak, vanilla, caramel, spice, leather",27
 "Pappy Van Winkle, 45.2%",220,45.2,96,NA,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spice, dried fruit",20
@@ -21,7 +21,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "George Dickel 11 year old Bottled in Bond (Distilled in Fall 2008), 50%",40,50,95,2008,Cascade Hollow Distillery,"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, orchard fruit",11
 "Buffalo Trace Experimental Collection, 1995 Vintage,  American Oak Chips Seasoned,  45%",47,45,95,1995,Buffalo Trace Distillery,undisclosed,"oak, vanilla, spice, caramel",15.33
 "Bulleit Blenders  Select (Batch 001), 50%",50,50,95,2020,Bulleit Distillery,undisclosed,"vanilla, oak, caramel, spice, dried fruit",9
-"George Dickel 15 year old Single Barrel (No. L2029-5k-1010), 52.3%",60,52.3,95,2029,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, dried fruit",15
+"George Dickel 15 year old Single Barrel (No. L2029-5k-1010), 52.3%",60,52.3,95,2006,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, dried fruit",15
 "Knob Creek 12 year old, 50%",60,50,95,2019,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, vanilla, spice, toasted nuts",12
 "George T. Stagg, 70.7%",65,70.7,95,2020,Buffalo Trace Distillery,Undisclosed,"Rich oak, caramel, vanilla, spice, dark fruit",15
 "William Larue Weller, 66.75%",70,66.8,95,2022,Buffalo Trace Distillery,undisclosed (wheated mash bill),"caramel, vanilla, oak, spice, dark fruit",12.5
@@ -38,8 +38,8 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "George T. Stagg Kentucky Straight (Buffalo Trace Antique Collection 2020), 65.2%",99,65.2,95,2020,Buffalo Trace Distillery,undisclosed,"rich caramel, oak, vanilla, cinnamon, dark chocolate",15
 "William Larue Weller Kentucky Straight (Buffalo Trace Antique Collection 2020), 67.25%",99,67.2,95,2020,Buffalo Trace Distillery,Undisclosed (Wheated mash bill),"Vanilla, Caramel, Oak, Toffee, Spice",12.5
 "Four Roses Limited Edition Single Barrel (2014 Release), 60%",100,60,95,2014,Four Roses Distillery,"60% corn, 35% rye, 5% malted barley","Rich caramel, baking spices, fruity, vanilla, oak",11
-"Uncle Nearest 1820 Single Barrel 11 year old Tennessee Whiskey (Barrel US-1), 57.55%",119,57.5,95,1820,Uncle Nearest Distillery,undisclosed,"Caramel, Oak, Spice, Vanilla, Warm",11
-"Uncle Nearest 1820 Single Barrel 11 year old Tennessee Whiskey (Barrel US-2), 55.1%",119,55.1,95,1820,Uncle Nearest Distillery,undisclosed,"caramel, oak, spice, vanilla, toasted nuts",11
+"Uncle Nearest 1820 Single Barrel 11 year old Tennessee Whiskey (Barrel US-1), 57.55%",119,57.5,95,2019,Uncle Nearest Distillery,undisclosed,"Caramel, Oak, Spice, Vanilla, Warm",11
+"Uncle Nearest 1820 Single Barrel 11 year old Tennessee Whiskey (Barrel US-2), 55.1%",119,55.1,95,2019,Uncle Nearest Distillery,undisclosed,"caramel, oak, spice, vanilla, toasted nuts",11
 "Four Roses Limited Edition Small Batch (2015 Release), 54.3%",120,54.3,95,2015,Four Roses Distillery,undisclosed,"ripe fruit, cinnamon, vanilla, caramel, oak",13
 "Four Roses Limited Edition Small Batch Straight (2019 Release), 56.3%",140,56.3,95,2019,Four Roses Distillery,Undisclosed,"Rich fruit, Spice, Vanilla, Oak, Caramel",15
 "Old Forester Birthday, 48%",150,48,95,2023,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, chocolate, oak, spice, vanilla",13
@@ -67,7 +67,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Elijah Craig Barrel Proof Kentucky Straight (Batch A121), 61.8%",60,61.8,94,2021,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spicy, toasted nuts",12
 "Old Forester 117 Series Bottled in Bond, 50%",60,50,94,2023,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, spice, fruit",4
 "Elijah Craig Barrel Proof (Batch A117), 63.5%",60,63.5,94,2017,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, cinnamon",12
-"Three Chord 12 year old Twelve Bar Reserve Barrel-Proof Straight Bourbon (Batch 0007), 53.5%",70,53.5,94,7,Undisclosed (sourced bourbon),Undisclosed,"Oak, Caramel, Vanilla, Spice, Rich",12
+"Three Chord 12 year old Twelve Bar Reserve Barrel-Proof Straight Bourbon (Batch 0007), 53.5%",70,53.5,94,2020,Undisclosed (sourced bourbon),Undisclosed,"Oak, Caramel, Vanilla, Spice, Rich",12
 "Eagle Rare 17 year old (bottled Spring 2013), 45%",70,45,94,2013,Buffalo Trace Distillery,Undisclosed,"Oak, Caramel, Vanilla, Spice, Leather",17
 "Eagle Rare 17 year old (bottled Spring 2012), 45%",70,45,94,2012,Buffalo Trace Distillery,Undisclosed,"Oak, Vanilla, Caramel, Spice, Leather",17
 "George T. Stagg, 71.5%",70,71.5,94,2016,Buffalo Trace Distillery,Undisclosed,"Rich oak, dark chocolate, caramel, vanilla, spice",15
@@ -110,7 +110,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Old Forester 150th Anniversary Batch Proof Kentucky Straight (Batch 03/03), 63.4%",150,63.4,94,2020,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, vanilla, dark fruit",7
 "Four Roses Limited Edition Small Batch (2020 Release), 55.7%",150,55.7,94,2020,Four Roses Distillery,Undisclosed,"Fruit, Spice, Vanilla, Oak, Caramel",15.25
 "Lux Row Distillers 12 year old Double Barrel Kentucky Straight Bourbon, 59.2%",150,59.2,94,2023,Lux Row Distillers,undisclosed,"oak, caramel, vanilla, spice, toasted nuts",12
-"Peerless High Rye (Batch 170921108), 55.3%",160,55.3,94,1709,Kentucky Peerless Distilling Co.,undisclosed,"spicy, peppery, caramel, oak, rye-forward",5.75
+"Peerless High Rye (Batch 170921108), 55.3%",160,55.3,94,2023,Kentucky Peerless Distilling Co.,undisclosed,"spicy, peppery, caramel, oak, rye-forward",5.75
 "Wild Turkey 17 year old Master s Keep Bottled in Bond Kentucky Straight Bourbon, 50%",175,50,94,2022,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, oak, spice, vanilla, dried fruit",17
 "Widow Jane 15 year old The Vaults Blend of Straight Bourbons (2020 Release, Batch 1), 49.5%",199,49.5,94,2020,Widow Jane Distillery (sourced blend),undisclosed,"oak, caramel, dark fruit, spice, vanilla",15
 "Angel s Envy Cask Strength Port Barrel-Finished (2020 Release), 60.2%",200,60.2,94,2020,Louisville Distilling Co.,"72% corn, 18% rye, 10% malted barley","dark fruit, caramel, chocolate, spice, oak",6
@@ -129,7 +129,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Evan Williams Single Barrel 2005 Vintage (Barrel #292), 43.3%",29,43.3,93,2005,Heaven Hill Distillery,"78% corn, 10% rye, 12% malted barley","caramel, oak, vanilla, spice, fruit",8
 "George Dickel 8 Year Old, 45%",33,45,93,NA,Cascade Hollow Distilling Co.,"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, fruit",8
 "George Dickel Bottled in Bond 13 year old (Distilled in Fall 2005) Tennessee Whiskey, 50%",36,50,93,2005,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, roasted peanuts, oak, spice, vanilla",13
-"Eagle Rare 17 year old 1984, 45%",38,45,93,1984,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spice, dried fruit",17
+"Eagle Rare 17 year old 1984, 45%",38,45,93,2001,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spice, dried fruit",17
 "Old Forester Birthday Bourbon, Spring 1990, 46.5%",40,46.5,93,1990,Old Forester Distillery (Brown-Forman),"72% corn, 18% rye, 10% malted barley","caramel, vanilla, oak, spice, fruit",10
 "Hancock s Single Barrel Reserve, 44.45%",40,44.5,93,NA,Buffalo Trace Distillery,undisclosed,"vanilla, honey, spice, caramel, oak",8
 "Old Ezra 7 year old Barrel Strength, 58.5%",40,58.5,93,2018,Lux Row Distillers,"78% corn, 12% malted barley, 10% rye","Caramel, Vanilla, Oak, Cinnamon, Brown Sugar",7
@@ -148,13 +148,12 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Larceny Barrel Proof Kentucky Straight (Batch A121), 57.4%",50,57.4,93,2021,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, oak, baking spice, vanilla, toasted nuts",7
 "William Larue Weller, 64.95%",55,65,93,2021,Buffalo Trace Distillery,Undisclosed (wheated bourbon),"Rich caramel, vanilla, oak spice, dark fruit, cinnamon",13
 "George T. Stagg, 72.4%",55,72.4,93,2005,Buffalo Trace Distillery,undisclosed,"caramel, oak, dark chocolate, spice, vanilla",16
-"Hirsch Selected Whiskeys The Bivouac (Batch 0822), 50%",55,50,93,822,Undisclosed (sourced by Hirsch Selected Whiskeys),"95% corn, 5% malted barley","Caramel, Vanilla, Oak, Spice, Citrus",7
+"Hirsch Selected Whiskeys The Bivouac (Batch 0822), 50%",55,50,93,2022,Undisclosed (sourced by Hirsch Selected Whiskeys),"95% corn, 5% malted barley","Caramel, Vanilla, Oak, Spice, Citrus",7
 "Filibuster Single Barrel Straight Bourbon, 58.5%",56,58.5,93,NA,Filibuster Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",5
 "Russell s Reserve Single Barrel, 55%",60,55,93,NA,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, vanilla, oak, spice, cinnamon",9
 "Doc.52 9 year old Straight Bourbon, 53%",60,53,93,NA,Undisclosed,Undisclosed,"Vanilla, Oak, Caramel, Spice",9
 "Elijah Craig Barrel Proof (Batch B519), 61.1%",60,61.1,93,2019,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, vanilla, cinnamon, rich",12
-"Baker s Single Barrel (No. 000185706), 53.5%",60,53.5,93,1,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, vanilla, oak, spice, toasted nuts",7
-"Baker s Single Barrel Kentucky Straight Bourbon (No. 000185706), 53.5%",60,53.5,93,1,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","Oak, Vanilla, Caramel, Spice, Toasted nuts",7
+"Baker s Single Barrel (No. 000185706), 53.5%",60,53.5,93,2019,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, vanilla, oak, spice, toasted nuts",7
 "Maker s Mark Wood Finishing Series: Stave Profile RC6 Kentucky Straight Bourbon (2019 Release), 54.1%",60,54.1,93,2019,Maker's Mark Distillery,"70% corn, 16% wheat, 14% malted barley","caramel, toasted oak, vanilla, baking spice, fruit",6
 "Knob Creek 12 year old Kentucky Straight Bourbon, 50%",60,50,93,2020,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, vanilla, spice, leather",12
 "Maker s Mark 2020 Limited Release Stave Profile SE4 x PR5 Kentucky Straight, 55.4%",60,55.4,93,2020,Maker's Mark Distillery,"70% corn, 16% wheat, 14% malted barley","caramel, vanilla, oak, spice, toasted",6
@@ -204,7 +203,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Eagle Rare 17 year old Kentucky Straight Bourbon (2019 Buffalo Trace Antique Collection), 50.5%",99,50.5,93,2019,Buffalo Trace Distillery,Undisclosed,"Oak, Vanilla, Caramel, Spice, Tobacco",17
 "Belle Meade 10 year old Sherry Cask Finish, 53.2%",100,53.2,93,NA,Nelson's Green Brier Distillery (sourced from MGP),undisclosed,"dried fruit, spice, caramel, oak",10
 "Old Forester Birthday Kentucky Straight (2019 Release), 52.5%",100,52.5,93,2019,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, dark fruit, vanilla",11
-"Hirsch The Single Barrel Double Oak (GLD23028), 64%",100,64,93,2302,Hirsch (sourced from Bardstown Bourbon Company),"72% Corn, 13% Rye, 15% Malted Barley","Oak, Spice, Vanilla, Caramel, Dark Fruit",7
+"Hirsch The Single Barrel Double Oak (GLD23028), 64%",100,64,93,2023,Hirsch (sourced from Bardstown Bourbon Company),"72% Corn, 13% Rye, 15% Malted Barley","Oak, Spice, Vanilla, Caramel, Dark Fruit",7
 "2XO The Kiawah Blend, 52%",100,52,93,2023,Two Times Oak (2XO),undisclosed,"caramel, oak, vanilla, spice, fruit",5
 "Heaven Hill Grain to Glass (Distilled in 2017; 2024 Release), 53.5%",100,53.5,93,2017,Heaven Hill Distillery,undisclosed,"caramel, oak, vanilla, spice",7
 "Old Fitzgerald 11 year old Bottled in Bond (Spring 2018 Release), 50%",110,50,93,2018,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, oak, vanilla, spice, rich",11
@@ -232,10 +231,10 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Bardstown Bourbon Company Collaborative Series Plantation Rum Barrel Finished, 52%",160,52,93,2023,Bardstown Bourbon Company,undisclosed,"vanilla, caramel, tropical fruit, oak, molasses",15
 "Bardstown Bourbon Company Collaborative Series Goose Island Bourbon County Stout Barrel Finished, 50%",160,50,93,2023,Bardstown Bourbon Company,undisclosed,"chocolate, caramel, roasted malt, oak, vanilla",15
 "Knob Creek 18 year old Limited Edition Small Batch, 50%",170,50,93,2022,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, vanilla, spice, leather",18
-"Blue Note 17 year old Barrel Proof Straight (Barrel No. 12841), 54.45%",175,54.5,93,1284,Undisclosed (sourced from George Dickel Distillery),"84% corn, 8% rye, 8% malted barley","caramel, oak, vanilla, spice, brown sugar",17
+"Blue Note 17 year old Barrel Proof Straight (Barrel No. 12841), 54.45%",175,54.5,93,2021,Undisclosed (sourced from George Dickel Distillery),"84% corn, 8% rye, 8% malted barley","caramel, oak, vanilla, spice, brown sugar",17
 "Wild Turkey Master s Keep One, 50.5%",175,50.5,93,2021,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, oak, spice, vanilla, dried fruit",15
 "15 Stars Triple Cask Cognac, Port, and Rum Cask Finished (Batch 001), 52.5%",180,52.5,93,2023,"15 Stars (sourced, exact distillery undisclosed)",undisclosed,"rich fruit, caramel, spice, oak, sweet rum",15
-"Michter s Single Barrel 10 year old (Batch 23A0272), 47.2%",185,47.2,93,272,Michter's Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",10
+"Michter s Single Barrel 10 year old (Batch 23A0272), 47.2%",185,47.2,93,2023,Michter's Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",10
 "Three Chord 15 year old Whiskey Drummer Kentucky Straight Bourbon, 58.95%",190,59,93,NA,Undisclosed (sourced from Kentucky),undisclosed,"oak, caramel, vanilla, spice, leather",15
 "Four Gate Andalusia Key Oloroso and Dark Rum Cask-Finished (Batch 9), 60.6%",199,60.6,93,2021,Undisclosed (sourced and bottled by Four Gate Whiskey Company),Undisclosed,"Rich fruit, Oloroso sherry, dark rum sweetness, oak spice",10
 "Four Gate The Kelvin Collaboration III (Batch 12), 61.85%",199,61.9,93,2021,Four Gate Whiskey Company,undisclosed,"oak, caramel, vanilla, spice, dark fruit",10.5
@@ -252,7 +251,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Angel s Envy Tawny Port Wine Barrel-Finished Bourbon, 55.8%",250,55.8,93,2023,Angel's Envy Distillery,"72% corn, 18% rye, 10% malted barley","rich, fruity, caramel, spice, wine-influenced",10
 "Four Gate Japanese Mizunara Oak Finished, 58.7%",250,58.7,93,2023,Four Gate Whiskey Company,undisclosed,"oak spice, caramel, vanilla, exotic spice, toasted coconut",10
 "Heaven Hill Heritage Collection 17 year old Barrel Proof, 59.1%",275,59.1,93,2023,Heaven Hill Distillery,"78% corn, 10% rye, 12% malted barley","Oak, Vanilla, Caramel, Spice, Dark Fruit",17
-"Michter s 20 year old Bourbon (Barrel #1646), 57.1%",450,57.1,93,1646,Michter's Distillery,undisclosed,"oak, caramel, vanilla, spice, dried fruit",20
+"Michter s 20 year old Bourbon (Barrel #1646), 57.1%",450,57.1,93,2013,Michter's Distillery,undisclosed,"oak, caramel, vanilla, spice, dried fruit",20
 "George Dickel 18 year old, 45%",510,45,93,NA,Cascade Hollow Distilling Co.,"84% corn, 8% rye, 8% malted barley","oak, caramel, vanilla, spice, dried fruit",18
 "Michter s 25 year old Bourbon, 58.1%",800,58.1,93,2017,Michter's Distillery,undisclosed,"oak, caramel, vanilla, spice, dark fruit",25
 "Kentucky Owl Dry State, 50%",1000,50,93,2020,Kentucky Owl,undisclosed,"oak, caramel, vanilla, spice, orchard fruit",10
@@ -261,26 +260,26 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Evan Williams Single Barrel 1995 Vintage (Barrel #1), 43.3%",25,43.3,92,1995,Heaven Hill Distillery,"78% corn, 10% rye, 12% malted barley","caramel, vanilla, oak, spice, honey",10
 "Jim Beam Black 7 year old, 45%",25,45,92,NA,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","Oak, Vanilla, Caramel, Spice",7
 "Knob Creek 9 year old Kentucky Straight Bourbon, 50%",30,50,92,2020,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, vanilla, spice, nuts",9
-"Kentucky Peerless Double Oak II Single Barrel Kentucky Straight Bourbon (No. 150718105), 53.95%",35,54,92,1507,Kentucky Peerless Distilling Co.,undisclosed,"toasted oak, caramel, vanilla, spice, rich",10
+"Kentucky Peerless Double Oak II Single Barrel Kentucky Straight Bourbon (No. 150718105), 53.95%",35,54,92,2020,Kentucky Peerless Distilling Co.,undisclosed,"toasted oak, caramel, vanilla, spice, rich",10
 "Four Roses Single Barrel (Barrel #87-6L), 50%",40,50,92,NA,Four Roses Distillery,"60% Corn, 35% Rye, 5% Malted Barley","Fruity, Spicy, Caramel, Vanilla, Oak",10.5
 "George Dickel Barrel Select, 43%",40,43,92,NA,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","vanilla, caramel, oak, spice, smooth",10
 "Rowan's Creek, Batch 03-59, 12 year old, 50.05%",40,50,92,NA,Willett Distillery (Kentucky Bourbon Distillers),undisclosed,"caramel, vanilla, oak, spice, dried fruit",10
 "Heaven Hill 7 year old Bottled in Bond, 50%",40,50,92,2019,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, vanilla, spice, toasted nuts",11
 "Benjamin Prichard s Tennessee Whiskey, 40%",45,40,92,NA,Prichard's Distillery,undisclosed,"caramel, vanilla, oak, spice",10
-"1792 Full Proof, 62.5%",45,62.5,92,1792,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, rich",9
-"George Dickel 13 year old Bottled in Bond (Distilled in 2007), 50%",45,50,92,2007,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, oak, spice, vanilla, fruity",10
+"1792 Full Proof, 62.5%",45,62.5,92,NA,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, rich",9
+"George Dickel 13 year old Bottled in Bond (Distilled in 2007), 50%",45,50,92,2020,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, oak, spice, vanilla, fruity",10
 "Blue Note Juke Joint Uncut, 58.75%",45,58.8,92,2022,Blue Note (sourced from undisclosed Kentucky distillery),undisclosed,"caramel, vanilla, oak, spice, brown sugar",10
-"George Dickel 12 year old Bottled in Bond (Distilled in Spring 2011), 50%",45,50,92,2011,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, nutty",15
+"George Dickel 12 year old Bottled in Bond (Distilled in Spring 2011), 50%",45,50,92,2024,Cascade Hollow Distilling Co. (George Dickel),"84% corn, 8% rye, 8% malted barley","caramel, vanilla, oak, spice, nutty",15
 "Buffalo Trace Experimental Collection Wheat 90, 45%",47,45,92,NA,Buffalo Trace Distillery,undisclosed,"wheat, caramel, vanilla, oak, soft",15
 "Buffalo Trace Experimental Collection Extended Stave Drying Time, 45%",47,45,92,2018,Buffalo Trace Distillery,undisclosed,"oak, caramel, spice, vanilla, toasted",15
 "Baker s, 53.5%",47,53.5,92,2023,Jim Beam Distillery,"77% Corn, 13% Rye, 10% Malted Barley","Vanilla, Oak, Caramel, Baking Spices, Nutty",10
 "Buffalo Trace Experimental Collection 12 year old wheated bourbon from floor #9, 45%",47,45,92,NA,Buffalo Trace Distillery,undisclosed (wheated),"caramel, oak, vanilla, wheat, spice",10
 "Buffalo Trace French Oak Barrel Head Aged, 45%",47,45,92,NA,Buffalo Trace Distillery,undisclosed,"oak, vanilla, caramel, spice, fruit",17
-"Knob Creek Single Barrel Reserve (No. 3405), 60%",47,60,92,3405,Jim Beam Distillery,"Approximately 75% corn, 13% rye, 12% malted barley","Rich oak, caramel, vanilla, spice, toasted nuts",20
+"Knob Creek Single Barrel Reserve (No. 3405), 60%",47,60,92,2016,Jim Beam Distillery,"Approximately 75% corn, 13% rye, 12% malted barley","Rich oak, caramel, vanilla, spice, toasted nuts",20
 "Buffalo Trace Experimental Collection Zinfandel Aged Bourbon, 14 year old, 45%",50,45,92,NA,Buffalo Trace Distillery,undisclosed,"fruity, wine-influenced, oak, spice, sweet",18
 "Vintage Bourbon, 17 year old, 47%",50,47,92,NA,Kentucky Bourbon Distillers (KBD/Willett),undisclosed,"Oak, Caramel, Vanilla, Spice, Leather",25
 "Maker s Mark Cask Strength Kentucky Straight Bourbon (Batch 19-01), 54.4%",50,54.4,92,2019,Maker's Mark Distillery,"70% corn, 16% wheat, 14% malted barley","caramel, vanilla, oak, cinnamon, spice",10
-"New Riff Kentucky Straight Single Barrel Bourbon (No. 15-3150), 56.45%",50,56.5,92,3150,New Riff Distillery,"65% corn, 30% rye, 5% malted barley","Spicy, Vanilla, Caramel, Oak, Cinnamon",10
+"New Riff Kentucky Straight Single Barrel Bourbon (No. 15-3150), 56.45%",50,56.5,92,2020,New Riff Distillery,"65% corn, 30% rye, 5% malted barley","Spicy, Vanilla, Caramel, Oak, Cinnamon",10
 "Bulleit Blenders' Select Kentucky Straight Bourbon (Batch 001), 50%",50,50,92,2020,Bulleit Distillery,undisclosed,"vanilla, caramel, spice, oak, fruit",10
 "New Riff Maltster Bottled in Bond Kentucky Straight (Wheat Recipe), 50%",50,50,92,2021,New Riff Distilling,"65% Corn, 18% Wheat, 10% Malted Wheat, 7% Malted Barley","Caramel, Vanilla, Fruit, Soft Spice, Gentle Oak",10
 "Casey Jones 3 year old Total Eclipse, 50%",50,50,92,NA,Casey Jones Distillery,undisclosed,"caramel, vanilla, oak, spice, toasted",7
@@ -289,10 +288,10 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Four Roses Small Batch Select Kentucky Straight Bourbon, 52%",55,52,92,2019,Four Roses Distillery,undisclosed,"spice, caramel, oak, vanilla, fruit",10
 "Chattanooga Bottled in Bond Spring 2019 (Batch 23E03R), 50%",55,50,92,2019,Chattanooga Whiskey Co.,undisclosed,"caramel, oak, spice, vanilla, chocolate",12
 "Backbone Bourbon Uncut Straight (Batch 15), 58.3%",59,58.3,92,2020,Backbone Bourbon Company (sourced from MGP Distillery),"70% corn, 25% rye, 5% malted barley","caramel, oak, spice, vanilla, toasted nuts",7
-"Rebel Yell Single Barrel 10 year old (barrel 5043515), 50%",60,50,92,5043,Lux Row Distillers,Undisclosed,"Oak, Caramel, Vanilla, Spice, Fruit",10
+"Rebel Yell Single Barrel 10 year old (barrel 5043515), 50%",60,50,92,2016,Lux Row Distillers,Undisclosed,"Oak, Caramel, Vanilla, Spice, Fruit",10
 "Rebel Yell 2018 Single Barrel 10 year old, 50%",60,50,92,2018,Lux Row Distillers (sourced from Heaven Hill Distillery),"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice, dried fruit",10
 "Belle Meade Cask Strength Reserve (Batch No. 5), 56.8%",60,56.8,92,2018,Nelson's Green Brier Distillery (sourced from MGP),undisclosed,"caramel, oak, spice, vanilla, dark fruit",13
-"Rebel Yell 10 year old (Barrel 5043515), 50%",60,50,92,5043,Lux Row Distillers,Undisclosed (wheated mash bill),"caramel, vanilla, oak, spice, honey",10
+"Rebel Yell 10 year old (Barrel 5043515), 50%",60,50,92,2016,Lux Row Distillers,Undisclosed (wheated mash bill),"caramel, vanilla, oak, spice, honey",10
 "Bardstown Bourbon Company Fusion Series #1, 49.45%",60,49.5,92,2019,Bardstown Bourbon Company,undisclosed,"caramel, vanilla, oak, baking spice, fruity",12
 "Bardstown Bourbon Co. Fusion Series Kentucky Straight Bourbon (No. 2), 49.45%",60,49.5,92,2019,Bardstown Bourbon Company,"60% Corn, 36% Rye, 4% Malted Barley (blend)","Oak, Vanilla, Spice, Caramel, Fruit",2.9
 "Kentucky Owl The Wiseman, 45.4%",60,45.4,92,2021,Kentucky Owl (sourced and blended),undisclosed,"caramel, vanilla, spice, oak, fruit",4.5
@@ -305,7 +304,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Booker s 2018-01 ""Kathleen s Batch,"" 63.7%",70,63.7,92,2018,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","vanilla, caramel, oak, spice, rich",6.5
 "Rabbit Hole Heigold Kentucky Straight Bourbon, 47.5%",70,47.5,92,2023,Rabbit Hole Distillery,"70% corn, 25% malted rye, 5% malted barley","caramel, spice, toasted oak, citrus",3
 "Thomas S. Moore Cabernet Sauvignon Cask-Finished, 47.65%",70,47.6,92,2021,Barton 1792 Distillery,undisclosed,"dark fruit, oak, vanilla, spice, tannins",5
-"O.H. Ingram River Aged (Barge #IN068518), 52.5%",70,52.5,92,685,O.H. Ingram River Aged Whiskey (distilled by MGP),undisclosed,"caramel, oak, vanilla, spice, toasted nuts",4
+"O.H. Ingram River Aged (Barge #IN068518), 52.5%",70,52.5,92,2022,O.H. Ingram River Aged Whiskey (distilled by MGP),undisclosed,"caramel, oak, vanilla, spice, toasted nuts",4
 "Elijah Craig 12 year old Barrel Proof (B522), 60.5%",70,60.5,92,2023,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, vanilla, spice, dark fruit",12
 "New Riff 8 year old, 50%",70,50,92,NA,New Riff Distillery,undisclosed,"caramel, oak, cinnamon, vanilla, spice",8
 "Whiskey Jypsi Explorer French and Appalachian Oak Stave Finished, 51.5%",70,51.5,92,2023,"Whiskey Jypsi (sourced, undisclosed distillery)",undisclosed,"oak, vanilla, spice, caramel, toasted",4
@@ -354,7 +353,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Heaven Hill Grain to Glass Wheated (Distilled in 2017; 2024 Release), 60.5%",100,60.5,92,2017,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","Sweet, Vanilla, Caramel, Oak, Creamy",7
 "Old Fitzgerald 11 year old Bottled in Bond (Fall 2021), 50%",110,50,92,2021,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice, honey",11
 "Lost Prophet 22 year old, 45%",120,45,92,2014,George T. Stagg Distillery (Buffalo Trace Distillery),"75% Corn, 15% Rye, 10% Malted Barley","oak, caramel, spice, vanilla, dried fruit",22
-"Elijah Craig Single Barrel (No. 4040) 18 year old, 45%",120,45,92,4040,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","Oak, Caramel, Vanilla, Spice, Leather",18
+"Elijah Craig Single Barrel (No. 4040) 18 year old, 45%",120,45,92,2016,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","Oak, Caramel, Vanilla, Spice, Leather",18
 "Michter s 10 year old Single Barrel Bourbon (Barrel #18B202), 47.2%",120,47.2,92,2021,Michter's Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",10
 "Tumblin  Dice 11 year old Straight Bourbon, 50%",120,50,92,NA,MGP (Sourced),undisclosed,"caramel, vanilla, oak, spice, brown sugar",11
 "Bardstown Bourbon Company Phifer Pavitt Reserve, 53.5%",125,53.5,92,2020,Bardstown Bourbon Company,undisclosed,"caramel, black cherry, vanilla, spices, oak",9
@@ -374,7 +373,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Hard Truth 14 year old Schoonover Uncut & Unfiltered (Barrel No. 357), 54.52%",150,54.5,92,NA,Hard Truth Distilling Co.,undisclosed,"rich oak, caramel, vanilla, baking spice, dried fruit",14
 "Puncher s Chance The Left Cross 14 year old, 48%",150,48,92,2023,"IJW Whiskey Company (sourced, specific distillery undisclosed)","84% corn, 8% malted barley, 8% rye","Caramel, Vanilla, Oak, Spice, Dark Fruit",14
 "Kentucky Owl Takumi Edition, 50%",150,50,92,2022,Kentucky Owl (collaboration with Nagahama Distillery),undisclosed,"caramel, orchard fruit, spice, vanilla, oak",14
-"Hirsch The Single Barrel Double Oak (Batch AHH0723/ Barrel GLD23046), 56.1%",150,56.1,92,723,Hirsch (sourced from Bardstown Bourbon Company),"72% Corn, 13% Rye, 15% Malted Barley","oak, caramel, vanilla, spice, toasted",12
+"Hirsch The Single Barrel Double Oak (Batch AHH0723/ Barrel GLD23046), 56.1%",150,56.1,92,2024,Hirsch (sourced from Bardstown Bourbon Company),"72% Corn, 13% Rye, 15% Malted Barley","oak, caramel, vanilla, spice, toasted",12
 "Bardstown Bourbon Company Chateau De Laubade Armagnac Cask Finished (2022 Release), 53.5%",160,53.5,92,2022,Bardstown Bourbon Company,undisclosed,"dried fruit, oak, caramel, spice",10
 "Preservation Distillery Old Man Winter From the Black Hills (2023), 54.9%",160,54.9,92,2023,Preservation Distillery,undisclosed,"caramel, oak, spice, vanilla, toasted nuts",5
 "Garrison Brothers Lady Bird, 57%,",180,57,92,2023,Garrison Brothers Distillery,undisclosed,"honey, spice, caramel, toasted oak",5
@@ -402,7 +401,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Elmer T. Lee Single Barrel, 45%",25,45,91,NA,Buffalo Trace Distillery,undisclosed,"caramel, vanilla, oak, honey, spice",5
 "Early Times Bottled in Bond Kentucky Straight, 50%",25,50,91,2020,Brown-Forman Distillery,"79% corn, 11% rye, 10% malted barley","caramel, vanilla, oak, spice",5
 "Evan Williams Single Barrel Vintage 2010, 43.3%",30,43.3,91,2010,Heaven Hill Distillery,"78% corn, 10% rye, 12% malted barley","Caramel, Vanilla, Oak, Spice, Honey",5
-"Kirkland 7 year old Tennessee Straight Bourbon (Batch T-1796), 51.5%",30,51.5,91,1796,Undisclosed (widely believed to be from George Dickel Distillery),Undisclosed,"caramel, oak, vanilla, spice, honey",7
+"Kirkland 7 year old Tennessee Straight Bourbon (Batch T-1796), 51.5%",30,51.5,91,2015,Undisclosed (widely believed to be from George Dickel Distillery),Undisclosed,"caramel, oak, vanilla, spice, honey",7
 "Elijah Craig Small Batch Single Barrel Bourbon 10 year old, 47%",35,47,91,NA,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, honey",10
 "Ezra Brooks 99 Special Cask Finished Series Port Wine Cask Finished, 49.5%",35,49.5,91,NA,Lux Row Distillers,"78% corn, 10% rye, 12% malted barley","dried fruit, caramel, oak, sweet, spice",5
 "W.L. Weller 12 year old Straight Bourbon, 45%",37,45,91,NA,Buffalo Trace Distillery,Undisclosed (wheated mash bill),"Caramel, Vanilla, Oak, Smooth, Rich",12
@@ -430,12 +429,12 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Blade and Bow, 45.5%",50,45.5,91,NA,Stitzel-Weller Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",NA
 "Mayor Pingree 5 year old Bosco Batch (2023 Release), 47%",50,47,91,2023,Valentine Distilling Co.,Undisclosed,"caramel, vanilla, oak, baking spice, dried fruit",5
 "2XO Oak Series American Oak, 46%",50,46,91,2023,Two Times Oak (2XO),undisclosed,"oak, caramel, vanilla, spice",4
-"Hirsch The Single Barrel White (Barrel 19-32787), 53.5%",50,53.5,91,3278,Undisclosed (sourced from MGP),"72% corn, 21% rye, 7% malted barley","Vanilla, Oak, Spice, Caramel, Citrus",4
+"Hirsch The Single Barrel White (Barrel 19-32787), 53.5%",50,53.5,91,2023,Undisclosed (sourced from MGP),"72% corn, 21% rye, 7% malted barley","Vanilla, Oak, Spice, Caramel, Citrus",4
 "Old Forester Birthday Bourbon (2013 Edition) 12 year old, 49%",55,49,91,2013,Brown-Forman Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, vanilla, dark fruit",12
 "Bib and Tucker 6 year old Small Batch Double Char (Batch 01), 44%",55,44,91,2023,"Undisclosed (sourced, Tennessee origin)",undisclosed,"caramel, vanilla, toasted oak, cinnamon, spice",6
 "Hard Truth 5 year old Bottled in Bond Sweet Mash Wheated (Spring 2019 Vintage), 50%",55,50,91,2019,Hard Truth Distilling Co.,undisclosed,"sweet, wheated, caramel, vanilla, oak",5
 "Booker s 2016-01  Bluegrass Batch,  63.95%",60,64,91,2016,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","vanilla, caramel, spicy, oak, cinnamon",6.92
-"Old Forester 1920 Prohibition Style Whiskey Row Series, 57.5%",60,57.5,91,1920,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, dark chocolate, vanilla",NA
+"Old Forester 1920 Prohibition Style Whiskey Row Series, 57.5%",60,57.5,91,NA,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, dark chocolate, vanilla",NA
 "Bardstown Bourbon Co. Fusion Series #1 Kentucky Straight Bourbon, 49.45%",60,49.5,91,2019,Bardstown Bourbon Company,"40% 11-year-old Kentucky bourbon (74% corn, 18% rye, 8% malted barley), 18% 2-year-old Bardstown bourbon (68% corn, 20% wheat, 12% malted barley), and 42% 2-year-old Bardstown bourbon (60% corn, 36% rye, 4% malted barley)","caramel, spice, oak, vanilla, fruit",11
 "Larceny Barrel Proof (Batch B522), 61.9%",60,61.9,91,2022,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, oak, vanilla, cinnamon, baking spice",7
 "Barrell Foundation 5 year old Blend of Straights, 50%",60,50,91,2023,Barrell Craft Spirits (sourced from undisclosed distilleries),undisclosed,"caramel, vanilla, oak, spice, toasted nuts",5
@@ -491,7 +490,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Yellowstone Limited Edition (2018 Release), 50.5%",100,50.5,91,2018,Limestone Branch Distillery,undisclosed,"caramel, vanilla, oak, spice, fruit",4
 "Blood Oath Pact No. 6 Cognac Barrel-Finished Bourbon, 49.3%",100,49.3,91,2020,Lux Row Distillers,undisclosed,"caramel, oak, spice, dried fruit, vanilla",12
 "Lucky Thirteen (2021 Release, Batch 1, Bottle 1), 46.5%",100,46.5,91,2021,Widow Jane Distillery,undisclosed,"caramel, vanilla, oak, spice",13
-"Bib & Tucker 12 year old Single Barrel Small Batch (No. 102258), 49.5%",100,49.5,91,1022,Tennessee Distilling Group,undisclosed,"oak, caramel, spice, vanilla, leather",12
+"Bib & Tucker 12 year old Single Barrel Small Batch (No. 102258), 49.5%",100,49.5,91,2023,Tennessee Distilling Group,undisclosed,"oak, caramel, spice, vanilla, leather",12
 "Stellum Equinox Blend No. 1, 58.63%",100,58.6,91,2022,Stellum Spirits (Barrell Craft Spirits),undisclosed,"caramel, spice, oak, dried fruit, vanilla",NA
 "World Whiskey Society 10 year old Port Cask Finished, 57%",100,57,91,NA,Undisclosed,Undisclosed,"Rich fruit, Port wine, Oak, Vanilla, Spice",10
 "A. Smith Bowman Cask Strength, 72.25%",100,72.2,91,2023,A. Smith Bowman Distillery,undisclosed,"caramel, oak, vanilla, baking spice, cinnamon",10
@@ -552,18 +551,18 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Evan Williams Single Barrel 1997 Vintage, 43.3%",26,43.3,90,1997,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","Vanilla, Oak, Caramel, Spice",9
 "Elmer T. Lee Single Barrel (90th Birthday Edition), 45%",30,45,90,2010,Buffalo Trace Distillery,undisclosed,"caramel, vanilla, oak, spice, honey",9.5
 "Evan Williams Single Barrel 2007 Vintage (Barrel No. 724), 43.3%",30,43.3,90,2007,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, vanilla, spice, toasted nuts",10
-"1792 Small Batch, 46.85%",30,46.9,90,1792,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, spice, oak, fruit",8.5
+"1792 Small Batch, 46.85%",30,46.9,90,NA,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, spice, oak, fruit",8.5
 "Knob Creek, 50%",32,50,90,NA,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, spice, vanilla, nutty",9
-"Henry McKenna Single Barrel 10 year old (cask #4535811), 50%",32,50,90,4535,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, honey",10
+"Henry McKenna Single Barrel 10 year old (cask #4535811), 50%",32,50,90,2015,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, honey",10
 "Henry McKenna Single Barrel Bottled in Bond 10 year old, 50%",33,50,90,NA,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","Oak, Vanilla, Caramel, Spice, Honey",10
 "Green River Sour Mash Wheated, 45%",35,45,90,2023,Green River Distilling Co.,"70% Corn, 21% Wheat, 9% Malted Barley","Caramel, Vanilla, Oak, Honey, Soft",4.5
-"1792 Bottled in Bond, 50%",36,50,90,1792,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, oak, spice, citrus",4.5
+"1792 Bottled in Bond, 50%",36,50,90,NA,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, oak, spice, citrus",4.5
 "Colonel E.H. Taylor Jr. Small Batch Bourbon, 50%",40,50,90,NA,Buffalo Trace Distillery,"Undisclosed (Buffalo Trace Mash Bill #1, low rye)","caramel, vanilla, oak, spice, cinnamon",7.5
 "Breckenridge Bourbon, 43%",40,43,90,NA,Breckenridge Distillery,"56% corn, 38% rye, 6% malted barley","caramel, vanilla, spice, oak, honey",2.5
 "Oppidan Smoke + Sea Bourbon, 46%",40,46,90,NA,Oppidan Spirits,undisclosed,"smoky, salty, caramel, vanilla, oak",4.5
 "W.L. Weller C.Y.P.B. Kentucky Straight Bourbon, 47.5%",40,47.5,90,2018,Buffalo Trace Distillery,Undisclosed (Wheated),"Vanilla, Caramel, Oak, Honey, Spice",8
 "Jack Daniel s Tennessee Taster s Barrel Reunion #2 Oatmeal Stout Barrel-Finished Tennessee Whiskey (Selection No. 005), 46%",40,46,90,2019,Jack Daniel's Distillery,"80% corn, 12% malted barley, 8% rye","oatmeal, malt, chocolate, caramel, toasted oak",NA
-"Hirsch The Horizon Straight Bourbon (Batch AHH0320), 46%",40,46,90,320,MGP (Ross & Squibb Distillery),"75% corn, 21% rye, 4% malted barley","caramel, vanilla, spice, oak, dried fruit",5
+"Hirsch The Horizon Straight Bourbon (Batch AHH0320), 46%",40,46,90,2020,MGP (Ross & Squibb Distillery),"75% corn, 21% rye, 4% malted barley","caramel, vanilla, spice, oak, dried fruit",5
 "Hudson Bright Lights, Big Bourbon New York Straight, 46%",40,46,90,NA,Tuthilltown Spirits Distillery,"95% Corn, 5% Malted barley","Caramel, Vanilla, Oak, Spice, Fruit",4
 "Jack Daniel s Tennessee Tasters  Selection Toasted Jamaica Allspice Wood-Finished, 50%",40,50,90,2019,Jack Daniel's Distillery,"80% corn, 12% malted barley, 8% rye","toasted spice, warm allspice, oak, sweet vanilla",NA
 "Wild Turkey Rare Breed, 58.4%",45,58.4,90,2023,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","spicy, caramel, oak, vanilla, cinnamon",8.6
@@ -577,7 +576,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Rock Town 5th Anniversary Arkansas Straight Bourbon, 50%",50,50,90,2015,Rock Town Distillery,undisclosed,"caramel, vanilla, oak, spice, fruity",5
 "Doc 52 Straight Bourbon Whiskey, 55%",50,55,90,NA,Doc's Distillery,undisclosed,"caramel, vanilla, oak, spice",4
 "Doc Swinson s Cabernet Sauvignon Cask-Finished Bourbon, 46.2%",50,46.2,90,NA,Undisclosed (sourced bourbon),undisclosed,"red fruit, vanilla, oak, spice, rich",5
-"1792 12 year old Small Batch Kentucky Straight Bourbon, 48.3%",50,48.3,90,1792,Barton 1792 Distillery,undisclosed,"oak, caramel, vanilla, spice, toasted nuts",12
+"1792 12 year old Small Batch Kentucky Straight Bourbon, 48.3%",50,48.3,90,NA,Barton 1792 Distillery,undisclosed,"oak, caramel, vanilla, spice, toasted nuts",12
 "Knob Creek Quarter Oak Kentucky Straight Bourbon, 50%",50,50,90,2019,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","Oak, Caramel, Vanilla, Spice, Toast",5
 "Doc Swinson s 13 year old Flagship Series Sherry Cask-Finished Bourbon (Barrel No. 005), 45%",50,45,90,NA,"Undisclosed (sourced whiskey, bottled by Doc Swinson's)",undisclosed,"rich fruit, vanilla, sherry, caramel, spice",13
 "New Riff Maltster Bottled in Bond Kentucky Straight (Rye Recipe), 50%",50,50,90,2021,New Riff Distilling,"65% corn, 18% malted rye, 10% unmalted rye, 7% malted barley","spicy, malty, fruity, caramel, pepper",5
@@ -606,14 +605,13 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Stellum Bourbon, 57.49%",55,57.5,90,2021,Stellum Spirits (Barrell Craft Spirits),undisclosed,"caramel, vanilla, spice, oak, cinnamon",7
 "Backbone Bourbon Uncut (Batch 25), 56%",55,56,90,NA,Backbone Bourbon Company (sourced from MGP),"70% corn, 25% rye, 5% barley","caramel, spice, oak, vanilla",6
 "Puncher's Chance The Undisputed Single Barrel, 54%",55,54,90,2023,IJW Whiskey Company,Undisclosed,"Honey, Vanilla, Oak, Spice",6
-"Woodford Reserve Double Oaked, 45.2%",55,45.2,90,2012,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","rich oak, caramel, vanilla, toasted spice",6.5
-"Woodford Reserve Double Oaked, 45.2%",55,45.2,90,2012,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","rich oak, caramel, vanilla, toasted spice",7
+"Woodford Reserve Double Oaked, 45.2%",55,45.2,90,NA,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","rich oak, caramel, vanilla, toasted spice",6.5
 "Fugitives Tennessee Artisan Spirits Tennessee Waltz Straight, 47%",59,47,90,NA,Fugitives Spirits,undisclosed,"caramel, vanilla, oak, spice",4
 "Classic Cask, 13 year old, 1991 Vintage, Batch GL-109, 45.4%",60,45.4,90,1991,Undisclosed,Undisclosed,"Vanilla, Oak, Caramel, Spice, Rich",13
 "Elijah Craig Barrel Proof (Batch B517), 62.1%",60,62.1,90,2017,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, vanilla, spice, toasted nuts",12
 "Tommyrotter Cider Cask Finished Tennessee Straight Whiskey, 47.5%",60,47.5,90,NA,Undisclosed (sourced from Tennessee),undisclosed,"apple, cinnamon, caramel, spice, oak",5
 "Penelope Barrel Strength Four Grain Straight Bourbon (Batch 4), 58.3%",60,58.3,90,2020,Penelope Bourbon (sourced from MGP Distillery),"74% corn, 16% wheat, 7% rye, 3% malted barley","caramel, vanilla, oak, spice, brown sugar",5
-"Starlight Distillery Carl T. Huber s Bottled in Bond Indiana Straight (Barrel No. 16238), 50%",60,50,90,1623,Starlight Distillery,undisclosed,"caramel, oak, vanilla, spice",4
+"Starlight Distillery Carl T. Huber s Bottled in Bond Indiana Straight (Barrel No. 16238), 50%",60,50,90,2017,Starlight Distillery,undisclosed,"caramel, oak, vanilla, spice",4
 "Starlight Distillery Carl T. Huber s Limited Release Double Oak Finished Straight (Batch DB003), 48%",60,48,90,NA,Starlight Distillery (Huber’s),undisclosed,"oak, caramel, vanilla, toasted spice",5
 "Still Austin Limited Release Cask Strength, 59%",60,59,90,2023,Still Austin Whiskey Co.,"70% white corn, 25% rye, 5% malted barley","caramel, baking spices, vanilla, oak, dark fruit",2
 "Penelope Architect Finished with French Oak Staves, 52%",60,52,90,2022,Penelope Bourbon (sourced from MGP),undisclosed,"vanilla, toasted oak, caramel, cinnamon, spice",4.5
@@ -622,16 +620,16 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Rebel 100 6 year old, 50%",60,50,90,NA,Lux Row Distillers,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice",6
 "Copper Fox Dawson s Reserve, 45%",63,45,90,NA,Copper Fox Distillery,undisclosed,"smoky, fruity, spicy",3
 "George T. Stagg, 70.9%",65,70.9,90,2023,Buffalo Trace Distillery,undisclosed,"rich oak, caramel, vanilla, spice, dark fruit",14.5
-"Willett Single Barrel Cask No. 2504 9 year old, 56.6%",65,56.6,90,2504,Willett Distillery,undisclosed,"caramel, oak, vanilla, spice, dark fruit",9
-"Jack Daniel s Single Barrel (Barrel #15-4956), 65.85%",65,65.8,90,4956,Jack Daniel Distillery,"80% corn, 12% malted barley, 8% rye","caramel, vanilla, oak, spice, toasted nuts",5.5
-"Tahwahkaro Cask Strength Straight (Barrel No. 18-0076), 64.3%",65,64.3,90,76,Tahwahkaro Distilling Company,undisclosed,"caramel, oak, vanilla, spice",3
+"Willett Single Barrel Cask No. 2504 9 year old, 56.6%",65,56.6,90,2012,Willett Distillery,undisclosed,"caramel, oak, vanilla, spice, dark fruit",9
+"Jack Daniel s Single Barrel (Barrel #15-4956), 65.85%",65,65.8,90,2020,Jack Daniel Distillery,"80% corn, 12% malted barley, 8% rye","caramel, vanilla, oak, spice, toasted nuts",5.5
+"Tahwahkaro Cask Strength Straight (Barrel No. 18-0076), 64.3%",65,64.3,90,2018,Tahwahkaro Distilling Company,undisclosed,"caramel, oak, vanilla, spice",3
 "Bardstown Bourbon Company Fusion Series No. 8, 47.75%",65,47.8,90,2023,Bardstown Bourbon Company,undisclosed,"caramel, oak, vanilla, spice, dark fruit",7.5
 "Bedtime 8 year old Straight Bourbon (Batch #3), 45%",69,45,90,NA,Undisclosed,Undisclosed,"Vanilla, Caramel, Oak, Spice",8
 "Wilderness Trail 6 year old Bottled in Bond Kentucky Straight, 50%",69,50,90,2023,Wilderness Trail Distillery,"64% corn, 24% rye, 12% malted barley","caramel, vanilla, oak, spice, fruity",6
 "Kings County Peated (Batch 19), 45%",69,45,90,NA,Kings County Distillery,undisclosed,"smoky, peat, caramel, vanilla, oak",3
-"Abraham Bowman Pioneer Spirit Virginia Whiskey (distilled 1993, bottled 2011), 69.3%",70,69.3,90,1993,A. Smith Bowman Distillery,undisclosed,"caramel, vanilla, oak, spice, rich",18
+"Abraham Bowman Pioneer Spirit Virginia Whiskey (distilled 1993, bottled 2011), 69.3%",70,69.3,90,2011,A. Smith Bowman Distillery,undisclosed,"caramel, vanilla, oak, spice, rich",18
 "Colonel E.H. Taylor Jr. Warehouse C Tornado Surviving, 50%",70,50,90,2011,Buffalo Trace Distillery,undisclosed,"oak, caramel, spice, vanilla, dried fruit",7
-"Angel's Envy Rye, 50%",70,50,90,2013,Angel's Envy Distillery,"95% rye, 5% malted barley","sweet, spicy, caramel, vanilla, oak",6.5
+"Angel's Envy Rye, 50%",70,50,90,NA,Angel's Envy Distillery,"95% rye, 5% malted barley","sweet, spicy, caramel, vanilla, oak",6.5
 "Abraham Bowman Gingerbread Beer Finished Bourbon 7 year old, 45%",70,45,90,2016,A. Smith Bowman Distillery,undisclosed,"gingerbread, spice, caramel, vanilla, baking spices",7
 "Colonel E.H. Taylor Jr. Cured Oak, 50%",70,50,90,2015,Buffalo Trace Distillery,undisclosed,"oak, vanilla, caramel, spice, toasted wood",17
 "Abraham Bowman High Rye Bourbon, 50%",70,50,90,NA,A. Smith Bowman Distillery,undisclosed (high rye),"spicy, fruity, caramel, vanilla, oak",9
@@ -681,7 +679,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Remus Repeal Reserve (Series VI), 50%",100,50,90,2022,Ross & Squibb Distillery (formerly MGP),undisclosed,"caramel, dried fruit, oak, spice, vanilla",11
 "Old Elk Cognac Cask Finished, 54.85%",100,54.9,90,2023,Old Elk Distillery,undisclosed,"caramel, oak, dried fruit, spice, cognac",5.5
 "Jefferson s Tropics Aged in Humidity Finished in Singapore, 52%",100,52,90,2023,Kentucky Artisan Distillery,undisclosed,"tropical fruit, spice, caramel, oak, vanilla",9
-"Rebel 10 year old Single Barrel (No. 6183611; 2024 release), 50%",100,50,90,6183,Lux Row Distillers,undisclosed (wheated),"caramel, vanilla, oak, spice, dried fruit",10
+"Rebel 10 year old Single Barrel (No. 6183611; 2024 release), 50%",100,50,90,2024,Lux Row Distillers,undisclosed (wheated),"caramel, vanilla, oak, spice, dried fruit",10
 "Yellowstone Limited Edition (2015 Release), 52.5%",105,52.5,90,2015,Limestone Branch Distillery,undisclosed,"caramel, vanilla, oak, spice, citrus",11
 "Orphan Barrel Rhetoric 22 year old, 45.2%",110,45.2,90,2016,Bernheim Distillery (Heaven Hill),"86% corn, 8% barley, 6% rye","oak, caramel, vanilla, spice, leather",22
 "Distillery 291 E Cherry and Peach Wine-Barrel Finished Bourbon (Batch 6), 61.3%",115,61.3,90,2021,Distillery 291,undisclosed,"fruity, spicy, rich, sweet, oak",3.5
@@ -731,8 +729,8 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Backbone Prime Blended (Batch 4), 52%",35,52,89,2022,Backbone Bourbon Company (sourced from undisclosed distilleries),undisclosed,"oak, spice, caramel, vanilla",6
 "Puncher s Chance Kentucky Straight, 45%",35,45,89,NA,IJW Whiskey Company,"75% corn, 13% rye, 12% malted barley","caramel, vanilla, oak, spice",4
 "Walker s Cay Kentucky Straight, 45%",35,45,89,2021,Green River Distillery,undisclosed,"caramel, vanilla, oak, spice",5.5
-"1792 225th Anniversary, 46.075%",36,46.1,89,1792,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",8.5
-"Driftless Glen 5 Year Old Single Barrel Straight (No. 1487), 48%",37,48,89,1487,Driftless Glen Distillery,undisclosed,"caramel, vanilla, spice, oak",5
+"1792 225th Anniversary, 46.075%",36,46.1,89,2017,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",8.5
+"Driftless Glen 5 Year Old Single Barrel Straight (No. 1487), 48%",37,48,89,NA,Driftless Glen Distillery,undisclosed,"caramel, vanilla, spice, oak",5
 "Old Forester Birthday Bourbon, Fall 1990, 44.5%",38,44.5,89,1990,Old Forester Distillery (Brown-Forman),"72% corn, 18% rye, 10% malted barley","caramel, vanilla, oak, spice, fruit",12
 "Ranch Road Straight, 47%",38,47,89,NA,Gulf Coast Distillers,undisclosed,"caramel, vanilla, oak, spice",4
 "Elijah Craig Barrel Proof 12 year old, 67.1%",40,67.1,89,2023,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, oak, spice, vanilla, toasted nuts",12
@@ -763,7 +761,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Jim Beam Signature Craft High Rye, 45%",50,45,89,2013,Jim Beam Distillery,undisclosed (high rye),"spicy, caramel, oak, vanilla, pepper",6
 "Tom s Foolery Bonded, 50%",50,50,89,NA,Tom's Foolery Distillery,Undisclosed,"Caramel, Vanilla, Oak, Spice",4
 "Bulleit Barrel Strength, 59.7%",50,59.7,89,NA,Bulleit Distilling Co. (Diageo),"68% corn, 28% rye, 4% malted barley","spicy, caramel, oak, vanilla, pepper",7
-"Rebel Yell Single Barrel 10 year old (barrel 4744359), 50%",50,50,89,4744,Lux Row Distillers,Undisclosed,"Caramel, Oak, Vanilla, Spice, Fruity",10
+"Rebel Yell Single Barrel 10 year old (barrel 4744359), 50%",50,50,89,2015,Lux Row Distillers,Undisclosed,"Caramel, Oak, Vanilla, Spice, Fruity",10
 "Woodford Reserve Double Double Oaked, 45.2%",50,45.2,89,NA,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","caramel, vanilla, oak, chocolate, toasted nuts",7
 "Hudson Four Grain Bourbon, 46%",50,46,89,NA,Tuthilltown Spirits Distillery,"60% corn, remainder rye, wheat, and malted barley (percentages undisclosed)","caramel, vanilla, spice, grain, oak",3.5
 "Heaven s Door, 45%",50,45,89,NA,Heaven's Door Spirits,undisclosed,"caramel, vanilla, oak, cinnamon, spice",6
@@ -775,7 +773,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Chattanooga Bottled in Bond Vintage Series (Spring 2017), 50%",50,50,89,2017,Chattanooga Whiskey Distillery,undisclosed,"caramel, vanilla, oak, spice, dried fruit",4
 "Chattanooga Founders 10th Anniversary Blend of Straights, 50%",50,50,89,2021,Chattanooga Whiskey Co.,undisclosed,"caramel, vanilla, oak, spice, toasted nuts",6
 "Middle West Spirits Michelone Reserve, 47.5%",50,47.5,89,NA,Middle West Spirits,undisclosed,"caramel, oak, vanilla, spice, fruit",3.5
-"Starlight Distillery Single Barrel (No. 1327), 56.8%",50,56.8,89,1327,Starlight Distillery,undisclosed,"caramel, vanilla, oak, spice",5
+"Starlight Distillery Single Barrel (No. 1327), 56.8%",50,56.8,89,2022,Starlight Distillery,undisclosed,"caramel, vanilla, oak, spice",5
 "Burnside Goose Hollow RSV, 46%",50,46,89,NA,Eastside Distilling,undisclosed,"caramel, vanilla, oak, spice",4.5
 "Daviess County Toasted Barrel Finish Series, 48%",50,48,89,2023,Lux Row Distillers,undisclosed,"toasted oak, caramel, vanilla, spice",4.5
 "Penelope Cooper Series Ros  Cask Finished (Batch 07), 47%",50,47,89,2023,Penelope Bourbon (sourced from MGP),undisclosed,"fruity, floral, vanilla, oak, wine-forward",4.5
@@ -789,7 +787,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Great Jones Four Grain, 45%",60,45,89,2023,Great Jones Distilling Co.,"Corn, Rye, Wheat, Malted Barley (percentages undisclosed)","Vanilla, Spice, Toasted Oak, Caramel",4.5
 "Traverse City Sherry Finished, 47.5%",60,47.5,89,NA,Traverse City Whiskey Co.,undisclosed,"dried fruit, caramel, spice, oak",5
 "Firestone & Robertson TX Tawny Port Cask-Finished Texas Bourbon, 50.8%",65,50.8,89,NA,Firestone & Robertson Distilling Co.,undisclosed,"dried fruit, caramel, spice, oak, port",4.5
-"James E. Pepper Barrel Proof (Batch 0003), 52.7%",65,52.7,89,3,James E. Pepper Distillery,undisclosed,"caramel, oak, baking spice, vanilla, pepper",3.5
+"James E. Pepper Barrel Proof (Batch 0003), 52.7%",65,52.7,89,2023,James E. Pepper Distillery,undisclosed,"caramel, oak, baking spice, vanilla, pepper",3.5
 "Larceny Barrel Proof (Batch B524), 62.7%",65,62.7,89,2023,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, toasted oak, baking spice, vanilla, dark fruit",7
 "Four Roses Mariage Collection (2008 Release), 55.7%",70,55.7,89,2008,Four Roses Distillery,undisclosed,"rich fruit, spice, caramel, oak",12
 "Colonel E.H. Taylor Jr. Barrel Proof, 67.25%",70,67.2,89,2022,Buffalo Trace Distillery,undisclosed,"caramel, oak, vanilla, spice, dark fruit",7
@@ -813,8 +811,8 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Eagle Rare 17 year old (2017 Buffalo Trace Antique Collection), 45%",90,45,89,2017,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spicy, leather",17
 "Barrell New Year 2018 Limited Edition, 55.6%",90,55.6,89,2018,Barrell Craft Spirits (sourced from undisclosed distilleries),undisclosed,"caramel, spice, dried fruit, oak, vanilla",6.5
 "Barrell Cask-Strength Blend of Straight Bourbons (Batch 016), 52.9%",90,52.9,89,2018,Barrell Craft Spirits (sourced; multiple distilleries undisclosed),undisclosed,"caramel, spice, oak, vanilla, dried fruit",12.5
-"Widow Jane 13 year old Lucky Thirteen Straight Bourbon (Barrel No. 2007), 49.5%",90,49.5,89,2007,Widow Jane Distillery,undisclosed,"caramel, vanilla, oak, spice, cinnamon",13
-"Widow Jane 13 year old Lucky Thirteen Straight Bourbon (Barrel No. 2010), 48.5%",90,48.5,89,2010,Widow Jane Distillery,undisclosed,"caramel, oak, vanilla, dried fruit, spice",13
+"Widow Jane 13 year old Lucky Thirteen Straight Bourbon (Barrel No. 2007), 49.5%",90,49.5,89,2020,Widow Jane Distillery,undisclosed,"caramel, vanilla, oak, spice, cinnamon",13
+"Widow Jane 13 year old Lucky Thirteen Straight Bourbon (Barrel No. 2010), 48.5%",90,48.5,89,2020,Widow Jane Distillery,undisclosed,"caramel, oak, vanilla, dried fruit, spice",13
 "Blue Run Reflection I, 47.5%",90,47.5,89,2022,Blue Run Spirits (distilled by Castle & Key Distillery),undisclosed,"caramel, vanilla, oak, spice, honey",4
 "Whatever Bottled in Bond, 50%",90,50,89,NA,Whatever Distillery,undisclosed,"caramel, vanilla, oak, spice",4
 "High N  Wicked 5 year old High Rye Cask Strength, 62.6%",90,62.6,89,2023,High N Wicked (distilled at New Riff Distillery),"65% corn, 30% rye, 5% malted barley","spicy, caramel, oak, vanilla, pepper",5
@@ -849,7 +847,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Nelson s Green Brier Sour Mash, 45.5%",30,45.5,88,2022,Nelson's Green Brier Distillery,undisclosed,"caramel, oak, vanilla, cinnamon, spice",4
 "Four Roses Single Barrel (Barrel #19-6J), 50%",32,50,88,2019,Four Roses Distillery,"60% corn, 35% rye, 5% malted barley","Spicy, Fruity, Vanilla, Caramel",8
 "Black Ridge, 45%",32,45,88,NA,Undisclosed (Bottled by Clear Springs Distilling Co.),Undisclosed,"Vanilla, Caramel, Oak, Spice",4
-"1792 Sweet Wheat Bourbon, 45.6%",33,45.6,88,1792,Barton 1792 Distillery,undisclosed (wheat-based),"sweet, caramel, vanilla, fruity, smooth",7
+"1792 Sweet Wheat Bourbon, 45.6%",33,45.6,88,NA,Barton 1792 Distillery,undisclosed (wheat-based),"sweet, caramel, vanilla, fruity, smooth",7
 "Old Forester Birthday Bourbon, 13 year old, 1993 Vintage, 48%",35,48,88,1993,Old Forester Distillery (Brown-Forman),"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, spice, toasted nuts",13
 "Elmer T. Lee Single Barrel Commemorative Edition, 46.5%",35,46.5,88,2013,Buffalo Trace Distillery,undisclosed,"vanilla, caramel, oak, spice, dried fruit",10
 "Four Roses Small Batch, 45%",35,45,88,NA,Four Roses Distillery,Undisclosed (blend of Four Roses' mash bills),"Fruity, Spicy, Floral, Caramel",7
@@ -858,7 +856,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Oppidan Four Grain Straight (Batch 001), 50%",35,50,88,NA,Oppidan Spirits,"68% Corn, 14% Wheat, 9% Rye, 9% Malted Barley","caramel, oak, vanilla, spice",4
 "Chattanooga 91 Proof Straight Bourbon (Batch 19F17R), 45.5%",35,45.5,88,2022,Chattanooga Whiskey Distillery,"75% corn, 12% malted rye, 7% caramel malted barley, 6% honey malted barley","caramel, vanilla, spice, malt, honey",3.5
 "High West American Prairie Blend of Straight Bourbons (Batch 19A23), 46%",35,46,88,2023,High West Distillery,undisclosed,"caramel, vanilla, spice, oak, honey",6
-"Starlight Distillery Carl T. Huber Signature Indiana Straight (Batch 0217), 46%",35,46,88,217,Starlight Distillery,undisclosed,"caramel, vanilla, oak, spice, fruity",4
+"Starlight Distillery Carl T. Huber Signature Indiana Straight (Batch 0217), 46%",35,46,88,2021,Starlight Distillery,undisclosed,"caramel, vanilla, oak, spice, fruity",4
 "Bowman Brothers Small Batch Virginia Straight, 45%",35,45,88,NA,A. Smith Bowman Distillery,undisclosed,"caramel, vanilla, oak, spice",5
 "Russell s Reserve 10 year old, 45%",37,45,88,NA,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, vanilla, oak, spice",10
 "Jack Daniel s Bottled in Bond, 50%",38,50,88,2018,Jack Daniel's Distillery,"80% corn, 12% malted barley, 8% rye","caramel, oak, banana, spice, vanilla",4
@@ -877,7 +875,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Dragon s Milk 5 year old Origin Small Batch, 47.5%",45,47.5,88,NA,New Holland Artisan Spirits,undisclosed,"vanilla, caramel, oak, malty, chocolate",5
 "Hotel Tango 2 year old, 45%",45,45,88,NA,Hotel Tango Distillery,undisclosed,"caramel, vanilla, oak, spice",2
 "Bull Run (Batch 049), 48%",45,48,88,NA,Bull Run Distillery,undisclosed,"caramel, vanilla, oak, baking spice",6
-"Coors Whiskey Co. Barmen 1873, 46%",45,46,88,1873,Coors Whiskey Co.,undisclosed,"caramel, oak, vanilla, spice",3.5
+"Coors Whiskey Co. Barmen 1873, 46%",45,46,88,2023,Coors Whiskey Co.,undisclosed,"caramel, oak, vanilla, spice",3.5
 "Buffalo Trace Experimental Collection 'Double Barreled,' 1997 Vintage, 45%",47,45,88,1997,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spice, toasted",20
 "Buffalo Trace Experimental Collection, 1995 Vintage,  French Oak Barrel Aged,  45%",47,45,88,1995,Buffalo Trace Distillery,undisclosed,"oak, vanilla, caramel, spice, fruit",22
 "Jim Beam  Signature  Six Grain, 44.5%",47,44.5,88,2014,Jim Beam Distillery,"Corn, Rye, Barley, Wheat, Brown Rice, Triticale (percentages undisclosed)","Grain-forward, Sweet, Complex, Spicy, Nutty",5
@@ -900,7 +898,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Bond & Lillard Kentucky Straight, 50%",50,50,88,2017,Wild Turkey Distillery,undisclosed,"caramel, spice, oak, citrus, vanilla",4
 "Old Fourth Distillery Bottled in Bond Straight (Barrel 20), 50%",50,50,88,NA,Old Fourth Distillery,undisclosed,"caramel, vanilla, oak, spice",4
 "Taconic Dutchess Private Reserve Cognac Cask-Finished, 45%",50,45,88,2023,Taconic Distillery,"70% corn, 25% rye, 5% malted barley","caramel, dried fruit, spice, vanilla, oak",4
-"Uncle Nearest 1884 Small Batch Tennessee Whiskey, 46.5%",50,46.5,88,1884,Nearest Green Distillery,undisclosed,"caramel, vanilla, oak, cinnamon, spice",7
+"Uncle Nearest 1884 Small Batch Tennessee Whiskey, 46.5%",50,46.5,88,NA,Nearest Green Distillery,undisclosed,"caramel, vanilla, oak, cinnamon, spice",7
 "Hudson Baby Straight Bourbon (Batch 9), 46%",50,46,88,NA,Tuthilltown Spirits Distillery,100% Corn,"Sweet corn, caramel, vanilla, oak",3
 "Elijah Craig Toasted Barrel Kentucky Straight, 47%",50,47,88,2020,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, toasted oak, vanilla, baking spice",10
 "Koval Single Barrel (No. ZT3W42), 47%",50,47,88,NA,Koval Distillery,"51% corn, 49% millet","fruity, grain-forward, spicy, caramel",4
@@ -927,7 +925,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Black Button Distilling Distiller s Select Single Barrel Straight (No. 724), 45%",60,45,88,NA,Black Button Distilling,undisclosed,"vanilla, oak, caramel, spice",2.5
 "Ironroot Harbinger Straight, 57.5%",60,57.5,88,2020,Ironroot Republic Distillery,undisclosed,"caramel, spice, oak, dried fruit, vanilla",3
 "Bluegrass Distillers Limited Release Toasted Oak, 50%",60,50,88,NA,Bluegrass Distillers,undisclosed,"Toasted oak, Vanilla, Caramel, Spice",6
-"Old Forester 1910 Old Fine Whisky, 46.5%",65,46.5,88,1910,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, toasted, chocolate",4
+"Old Forester 1910 Old Fine Whisky, 46.5%",65,46.5,88,NA,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, toasted, chocolate",4
 "Penelope Toasted Barrel Strength, 56%",65,56,88,2023,Penelope Bourbon (sourced from MGP),"Corn 75%, Rye 21%, Malted Barley 4%","Toasted oak, caramel, vanilla, spice",5
 "Colonel E.H. Taylor Jr. Old Fashioned Sour Mash, 50%",70,50,88,2011,Buffalo Trace Distillery,undisclosed,"caramel, oak, vanilla, spice, dried fruit",6
 "Watershed Distillery Barrel-Strength Apple Brandy Barrel-Finished (Batch 001), 59.65%",70,59.6,88,2022,Watershed Distillery,undisclosed,"apple, caramel, spice, oak, vanilla",4
@@ -976,7 +974,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Gold Bar Rickhouse Cask Strength French Oak Stave Finished, 51.5%",35,51.5,87,NA,Gold Bar Whiskey Distillery,undisclosed,"oak, vanilla, spice, caramel, toasted",3
 "Chicken Cock Heritage Reserve, 45%",38,45,87,2023,"Grain & Barrel Spirits (sourced, exact distillery undisclosed)",undisclosed,"caramel, vanilla, oak, spice",8
 "Pinhook Bohemian Kentucky Straight, 47.5%",38,47.5,87,2020,Castle & Key Distillery,"75% Corn, 15% Rye, 10% Malted Barley","Caramel, Vanilla, Spice, Oak",4
-"1792 Single Barrel, 49.3%",40,49.3,87,1792,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, spice, oak, fruit",8
+"1792 Single Barrel, 49.3%",40,49.3,87,NA,Barton 1792 Distillery,undisclosed (high rye),"caramel, vanilla, spice, oak, fruit",8
 "Wild Turkey Longbranch, 43%",40,43,87,2018,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, vanilla, oak, spice, smoke",8
 "Treaty Oak Red Handed, 47.5%",40,47.5,87,NA,Treaty Oak Distillery,undisclosed,"caramel, vanilla, oak, spice",5
 "Great Jones (Batch 001), 43%",40,43,87,NA,Great Jones Distilling Co.,undisclosed,"vanilla, caramel, oak, spice",4
@@ -987,11 +985,11 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "BeanBall Bourbon, 50%",45,50,87,NA,Cooperstown Distillery,undisclosed,"caramel, vanilla, oak, spice",4
 "Davidson Reserve Four Grain Tennessee Straight (Batch 2018-002), 50%",45,50,87,2018,Pennington Distilling Co.,"60% corn, 22% wheat, 9% rye, 9% malted barley","caramel, vanilla, spice, oak, toasted grains",4
 "Smooth Ambler Old Scout Straight Bourbon (Batch #1), 49.5%",45,49.5,87,2011,"Smooth Ambler (sourced, undisclosed distillery)",undisclosed,"caramel, oak, spice, vanilla",5
-"Oregon Spirit Straight Bourbon (Barrel Series No. 150317), 47%",45,47,87,1503,Oregon Spirit Distillers,undisclosed,"caramel, oak, spice, vanilla, fruit",4
+"Oregon Spirit Straight Bourbon (Barrel Series No. 150317), 47%",45,47,87,2020,Oregon Spirit Distillers,undisclosed,"caramel, oak, spice, vanilla, fruit",4
 "Wyoming Whiskey Small Batch, 44%",45,44,87,NA,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, spice, oak, dried fruit",5
 "Iron Fish Maple Syrup Barrel Finished, 43%",45,43,87,NA,Iron Fish Distillery,undisclosed,"maple syrup, sweet, caramel, vanilla, oak",3
 "Buffalo Trace Experimental Collection Hot Box Toasted Barrel, 45%",47,45,87,2023,Buffalo Trace Distillery,undisclosed,"toasted oak, caramel, vanilla, spice",6
-"Knob Creek Single Barrel Reserve (No. 3403), 60%",47,60,87,3403,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","caramel, oak, vanilla, spice, rich",9
+"Knob Creek Single Barrel Reserve (No. 3403), 60%",47,60,87,2011,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","caramel, oak, vanilla, spice, rich",9
 "Michter s US*1 Toasted Barrel Finish Bourbon, 45.7%",48,45.7,87,2023,Michter's Distillery,undisclosed,"toasted oak, caramel, vanilla, spice",5
 "Vesey s Straight Bourbon, 47%",48,47,87,NA,"Undisclosed (sourced, bottled by Vesey's)",Undisclosed,"Caramel, Vanilla, Oak, Spice",4
 "Mayor Pingree Red Label Straight (Batch No. 001), 47%",48,47,87,2019,Valentine Distilling Co.,undisclosed,"caramel, vanilla, oak, spice, toasted nuts",5
@@ -1001,19 +999,19 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "John J. Bowman Single Barrel, 50%",50,50,87,NA,A. Smith Bowman Distillery,undisclosed,"caramel, oak, vanilla, spice, toffee",9
 "Wild Turkey Forgiven, 45.5%",50,45.5,87,2013,Wild Turkey Distillery,undisclosed,"caramel, vanilla, oak, spice, fruit",6
 "Jim Beam Signature Craft Soft Red Wheat, 45%",50,45,87,2013,Jim Beam Distillery,undisclosed (soft red wheat used),"soft, sweet, wheat, fruit, smooth",11
-"High West American Prairie Bourbon (Barrel #2683), 50.1%",50,50.1,87,2683,High West Distillery,undisclosed,"caramel, vanilla, oak, spice, honey",6
+"High West American Prairie Bourbon (Barrel #2683), 50.1%",50,50.1,87,2016,High West Distillery,undisclosed,"caramel, vanilla, oak, spice, honey",6
 "Crooked Water Kings Point Port Wine Barrel Finished, 45%",50,45,87,NA,Crooked Water Spirits,undisclosed,"fruity, port-influenced, oak, honey, spice",5
 "Crooked Water Old Hell Roaring Double Barreled Straight, 45%",50,45,87,NA,Crooked Water,undisclosed,"caramel, vanilla, oak, spice, toasted",4
 "Treaty Oak Ghost Hill Texas, 47.5%",50,47.5,87,NA,Treaty Oak Distillery,"57% Corn, 32% Wheat, 11% Barley","Caramel, Oak, Honey, Vanilla, Spice",2
 "Frey Ranch Straight Bourbon (Batch 1), 45%",50,45,87,2020,Frey Ranch Distillery,"66.6% corn, 11.4% rye, 10% wheat, 12% malted barley","caramel, vanilla, oak, spice, dried fruit",4
-"Firestone & Robertson Founder s Select Leonard s Pick TX Single Barrel Texas Straight Bourbon (No. 1432), 45%",50,45,87,1432,Firestone & Robertson Distilling Co.,undisclosed,"caramel, vanilla, oak, spice, toasted nuts",4
+"Firestone & Robertson Founder s Select Leonard s Pick TX Single Barrel Texas Straight Bourbon (No. 1432), 45%",50,45,87,2019,Firestone & Robertson Distilling Co.,undisclosed,"caramel, vanilla, oak, spice, toasted nuts",4
 "William Larue Weller, 58.95%",55,59,87,NA,Buffalo Trace Distillery,undisclosed (wheated mash bill),"caramel, vanilla, oak, spice, rich",12
 "Yellow Rose Outlaw (Batch L19-19), 46%",55,46,87,2019,Yellow Rose Distilling,100% Corn,"caramel, vanilla, oak, sweet corn, spice",3
 "Kings County Distillery 2 year old Blended, 43%",55,43,87,NA,Kings County Distillery,undisclosed,"caramel, vanilla, oak, spice",2
 "Woody Creek Distillers Colorado, 45%",57,45,87,NA,Woody Creek Distillers,undisclosed,"caramel, vanilla, oak, spice, fruit",3
 "Booker s 2015-04  Oven Buster Batch,  63.5%",60,63.5,87,2015,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, vanilla, oak, spice, cinnamon",6.66
 "Tom s Foolery Ohio Straight Bourbon (barrel 19), 61.5%",60,61.5,87,NA,Tom's Foolery Distillery,undisclosed,"caramel, spicy, oak, vanilla",4
-"Uncle Nearest 1856, 50%",60,50,87,1856,Uncle Nearest Distillery,undisclosed,"caramel, vanilla, oak, spice, maple",7
+"Uncle Nearest 1856, 50%",60,50,87,NA,Uncle Nearest Distillery,undisclosed,"caramel, vanilla, oak, spice, maple",7
 "Old Elk Wheated Straight Bourbon, 46%",65,46,87,NA,Old Elk Distillery,"51% corn, 45% wheat, 4% malted barley","caramel, vanilla, soft spice, honey, gentle oak",5
 "Litchfield Distillery 5 year old Double Barreled, 45%",65,45,87,NA,Litchfield Distillery,undisclosed,"vanilla, oak, caramel, spice",5
 "Hotel Tango 6 year old American Straight Reserver, 45%",65,45,87,NA,Hotel Tango Distillery,undisclosed,"oak, caramel, vanilla, spice",6
@@ -1038,7 +1036,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Barrell Bourbon (Batch 006), 61.45%",90,61.5,87,2016,"Barrell Craft Spirits (sourced, undisclosed distillery/distilleries)",undisclosed,"caramel, spice, vanilla, dark fruit, oak",7
 "Square 6 Kentucky Straight, 47.5%",90,47.5,87,2021,Evan Williams Bourbon Experience,"52% corn, 35% rye, 13% malted barley","caramel, oak, spice, vanilla",4
 "Woodford Reserve Master s Collection  Aged Cask,  46.2%",100,46.2,87,2021,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","oak, caramel, vanilla, toasted nuts, spice",7
-"Woodford Reserve Master s Collection 1838 Style White Corn Bourbon, 45.2%",100,45.2,87,1838,Woodford Reserve Distillery,undisclosed,"sweet corn, vanilla, oak, caramel, spice",5
+"Woodford Reserve Master s Collection 1838 Style White Corn Bourbon, 45.2%",100,45.2,87,2015,Woodford Reserve Distillery,undisclosed,"sweet corn, vanilla, oak, caramel, spice",5
 "Jack Daniel s No. 27 Gold, 40%",100,40,87,NA,Jack Daniel Distillery,"80% corn, 12% malted barley, 8% rye","smooth, vanilla, caramel, oak, honey",5
 "Knob Creek 25th Anniversary Single Barrel (barreled 2/11/2004), 62.5%",130,62.5,87,2004,Jim Beam Distillery,"75% corn, 13% rye, 12% malted barley","oak, caramel, vanilla, spice, toasted nuts",13
 "Woodford Reserve Master s Collection Oat Grain Straight Bourbon, 42.5%",130,42.5,87,2018,Woodford Reserve Distillery,"66% corn, 18% oats, 12% malted barley, 4% rye","Oatmeal, Honey, Vanilla, Spice",7
@@ -1048,7 +1046,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Heaven Hill Bottled in Bond 6 year old, 50%",15,50,86,2019,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","vanilla, oak, caramel, spice, honey",6
 "Buckhorn, 40%",17,40,86,NA,Clear Spring Distilling Co. (Sazerac Company),undisclosed,"sweet, caramel, vanilla, oak",3
 "Evan Williams Bottled in Bond, 50%",17,50,86,NA,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice",4
-"Evan Williams 1783, 43%",20,43,86,1783,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, honey",6
+"Evan Williams 1783, 43%",20,43,86,NA,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice, honey",6
 "Jim Beam Distiller s Cut, 50%",23,50,86,2017,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, oak, vanilla, spice",5
 "Wild Turkey 101, 50.5%",25,50.5,86,NA,Wild Turkey Distillery,"75% corn, 13% rye, 12% malted barley","caramel, vanilla, oak, spice, cinnamon",6
 "Bird Dog Kentucky Bourbon, 40%",25,40,86,NA,Western Spirits Beverage Company,undisclosed,"caramel, vanilla, oak, spice",4
@@ -1068,7 +1066,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Union Horse Reunion Straight Bourbon, 46%",38,46,86,NA,Union Horse Distilling Co.,undisclosed,"caramel, vanilla, oak, spice",4
 "Red Saw Straight Bourbon, 48%",39,48,86,NA,Honeoye Falls Distillery,undisclosed,"caramel, vanilla, oak, spice",3
 "High West American Prairie Reserve Blend of Straight Bourbons (Batch #1), 46%",40,46,86,2014,High West Distillery,undisclosed,"caramel, vanilla, spice, honey, toasted oak",6
-"1792 Port Finish Bourbon, 44.45%",40,44.5,86,1792,Barton 1792 Distillery,undisclosed,"fruity, caramel, oak, spice, port",6
+"1792 Port Finish Bourbon, 44.45%",40,44.5,86,2015,Barton 1792 Distillery,undisclosed,"fruity, caramel, oak, spice, port",6
 "Smooth Ambler Contradiction Bourbon, 46%",40,46,86,NA,Smooth Ambler Spirits,undisclosed,"caramel, vanilla, oak, spice, honey",5
 "Davidson Reserve Small Batch Tennessee Straight Sour Mash, 50%",40,50,86,NA,Pennington Distilling Co.,undisclosed,"caramel, vanilla, oak, spice, toasted grain",4
 "Buffalo Trace Kosher Wheat Recipe Straight, 47%",40,47,86,2020,Buffalo Trace Distillery,undisclosed (wheated recipe),"caramel, vanilla, wheat, oak, soft",4
@@ -1113,7 +1111,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Belle Meade Cognac Cask, 45.2%",75,45.2,86,2018,Nelson's Green Brier Distillery,undisclosed,"caramel, dried fruit, spice, vanilla, oak",4.5
 "Booker s 2017-02  Blue Knights Batch,  63.7%",75,63.7,86,2017,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","vanilla, caramel, oak, spice, intense",6
 "Belle Meade 9 year old Oloroso Sherry Cask Finished, 45.2%",75,45.2,86,NA,Nelson's Green Brier Distillery,undisclosed,"dried fruits, caramel, spice, oak, sherry",9
-"Oregon Spirit Single Barrel Bottled in Bond Bourbon (No. 150330 01), 50%",75,50,86,1503,Oregon Spirit Distillers,undisclosed,"caramel, vanilla, oak, spice",4
+"Oregon Spirit Single Barrel Bottled in Bond Bourbon (No. 150330 01), 50%",75,50,86,2017,Oregon Spirit Distillers,undisclosed,"caramel, vanilla, oak, spice",4
 "Fugitives Tennessee Artisan Spirits Grandgousier Single Barrel (No. 6), 47%",75,47,86,2023,Fugitives Tennessee Artisan Spirits,undisclosed,"caramel, oak, vanilla, spice, fruit",4
 "Chicken Cock Beer Barrel Select, 45%",80,45,86,2023,Grain & Barrel Spirits,undisclosed,"caramel, malty, oak, vanilla, beer-influenced",3
 "Jefferson s Reserve Old Rum Cask Finished, 45.1%",80,45.1,86,NA,Kentucky Artisan Distillery,undisclosed,"caramel, tropical fruit, vanilla, oak, spice",6
@@ -1143,18 +1141,18 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Jim Beam Signature Craft Rare Spanish Brandy Finish, 43%",40,43,85,2015,Jim Beam Distillery,undisclosed,"fruity, oak, vanilla, caramel, brandy",4
 "New Deal Distiller s Reserve Oregon Straight Bourbon, 40%",40,40,85,NA,New Deal Distillery,undisclosed,"caramel, vanilla, oak, spice",3.5
 "Tom s Town Double Oaked Bourbon, 45%",40,45,85,NA,Tom's Town Distilling Co.,undisclosed,"caramel, oak, vanilla, spice, toasted nuts",4
-"Three Chord Blended Bourbon (Batch 0007), 40.5%",40,40.5,85,7,Steel Bending Spirits,undisclosed,"caramel, vanilla, oak, smooth",4
+"Three Chord Blended Bourbon (Batch 0007), 40.5%",40,40.5,85,2021,Steel Bending Spirits,undisclosed,"caramel, vanilla, oak, smooth",4
 "Filibuster Dual Cask Finished Bourbon, 45%",41,45,85,NA,Filibuster Distillery,"75% corn, 21% rye, 4% malted barley","caramel, vanilla, oak, spice",4
 "Basil Hayden s, 40%",42,40,85,NA,Jim Beam Distillery,"63% corn, 27% rye, 10% malted barley","spicy, pepper, citrus, vanilla",8
 "Chambers Bay Straight Bourbon (Batch 6), 47.5%",43,47.5,85,NA,Chambers Bay Distillery,undisclosed,"caramel, vanilla, spice, oak",2
-"Old Forester 1870 Original Batch, 45%",45,45,85,1870,Brown-Forman Distillery,"72% corn, 18% rye, 10% malted barley","caramel, spice, fruit, oak",4
+"Old Forester 1870 Original Batch, 45%",45,45,85,NA,Brown-Forman Distillery,"72% corn, 18% rye, 10% malted barley","caramel, spice, fruit, oak",4
 "Cody Road Single Barrel Bourbon, 52.5%",45,52.5,85,NA,Mississippi River Distilling Company,"70% Corn, 20% Wheat, 10% Barley","caramel, vanilla, oak, spice",4
 "Woodinville Straight Bourbon, 45%",45,45,85,NA,Woodinville Whiskey Co.,"72% corn, 22% rye, 6% malted barley","caramel, vanilla, oak, spice, honey",5
 "Davidson Reserve Four Grain Tennessee Straight Whiskey (Batch 1), 50%",45,50,85,NA,Pennington Distilling Co.,"undisclosed (blend of corn, wheat, rye, barley)","caramel, spice, oak, vanilla, fruit",4
 "Wyoming Whiskey Steamboat Straight Bourbon, 45%",45,45,85,2023,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, cinnamon, spice",5
 "Luca Mariano Old Americana Small Batch Kentucky Straight Bourbon (Batch 2019-03), 41.5%",45,41.5,85,2019,Luca Mariano Distillery,undisclosed,"caramel, vanilla, oak, spice",4
 "Boulder Spirits Straight, 42%",45,42,85,NA,Vapor Distillery,"51% corn, 44% malted barley, 5% rye","Honey, Malt, Fruity, Vanilla, Oak",3
-"Wyoming Single Barrel Bourbon (#1056), 44%",49,44,85,1056,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, floral, spice",5
+"Wyoming Single Barrel Bourbon (#1056), 44%",49,44,85,2021,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, floral, spice",5
 "Old Forester Birthday Bourbon (bottled 2012), 48.5%",50,48.5,85,2012,Old Forester Distillery (Brown-Forman),"72% corn, 18% rye, 10% malted barley","caramel, oak, spice, vanilla, fruity",12
 "Trail s End, 45%",50,45,85,NA,Hood River Distillers,undisclosed,"caramel, vanilla, oak, sweet, fruity",8
 "Bond & Lillard, 50%",50,50,85,2017,Wild Turkey Distillery,undisclosed,"caramel, vanilla, oak, spice, fruity",6
@@ -1162,7 +1160,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Cad e Deceptivus Bourbon, 42.5%",50,42.5,85,NA,Cadee Distillery,undisclosed,"caramel, oak, vanilla, spice",4
 "Blaum Bros. Straight Bourbon, 50%",50,50,85,NA,Blaum Bros. Distilling Co.,undisclosed,"caramel, vanilla, oak, baking spice",4
 "Whiskey Acres Bottled in Bond Bourbon (Batch 1), 50%",50,50,85,NA,Whiskey Acres Distilling Co.,"75% corn, 15% wheat, 10% malted barley","caramel, vanilla, oak, spice, honey",4
-"Firestone & Robertson Founder s Select Troy s Pick TX Single Barrel Texas Straight Bourbon (No. 1412), 45%",50,45,85,1412,Firestone & Robertson Distilling Co.,undisclosed,"caramel, oak, vanilla, spice, leather",4
+"Firestone & Robertson Founder s Select Troy s Pick TX Single Barrel Texas Straight Bourbon (No. 1412), 45%",50,45,85,2020,Firestone & Robertson Distilling Co.,undisclosed,"caramel, oak, vanilla, spice, leather",4
 "Wigle Organic Wapsie Valley Corn, 46%",58,46,85,NA,Wigle Whiskey Distillery,undisclosed,"sweet corn, vanilla, caramel, grain-forward",2
 "Old Forester Birthday Bourbon (2014 release) 12 year old, 48.5%",60,48.5,85,2014,Old Forester Distillery (Brown-Forman),"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, spice, dark fruit",12
 "A.D. Laws Four Grain Straight Bourbon Cask Strength (Barrel #48), 57%",78,57,85,NA,Laws Whiskey House,"60% corn, 20% wheat, 10% rye, 10% barley","caramel, oak, spicy, vanilla, dark fruit",3
@@ -1170,7 +1168,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Orphan Barrel Rhetoric 20 year old, 45%",85,45,85,2014,Bernheim Distillery,"86% corn, 8% barley, 6% rye","oak, caramel, vanilla, spice, leather",20
 "Jefferson s Ocean-Aged, 44%",90,44,85,2014,Kentucky Artisan Distillery,undisclosed,"salty, caramel, vanilla, oak, spice",6
 "Woodford Reserve Master s Collection American Oak, 42.5%",130,42.5,85,2023,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","Oak, Vanilla, Spice, Caramel",7
-"Elijah Craig 20 year old (Barrel No. 3742), 45%",150,45,85,3742,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","oak, caramel, vanilla, spice, dried fruit",20
+"Elijah Craig 20 year old (Barrel No. 3742), 45%",150,45,85,2012,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","oak, caramel, vanilla, spice, dried fruit",20
 "Jefferson s Presidential Select 30 year old, 45.2%",250,45.2,85,NA,"Kentucky Artisan Distillery (bottled by Jefferson's, sourced whiskey originally distilled at Stitzel-Weller Distillery)",undisclosed,"oak, vanilla, caramel, leather, spice",30
 "Zackariah Harris, 40%",12,40,84,NA,Glenmore Distillery (Sazerac Company),undisclosed,"vanilla, caramel, oak, light spice",3
 "J.W. Dant, 50%",13,50,84,NA,Heaven Hill Distillery,"78% corn, 12% malted barley, 10% rye","caramel, vanilla, oak, spice",4
@@ -1179,7 +1177,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Jim Beam Black 8 year old, 43%",22,43,84,NA,Jim Beam Distillery,"77% corn, 13% rye, 10% malted barley","caramel, oak, vanilla, spice, smooth",8
 "PennyPacker, 40%",22,40,84,NA,Heaven Hill Distillery,"70% corn, undisclosed rye and malted barley percentages","caramel, vanilla, oak, sweet, mild",3
 "Smooth Ambler Yearling, 46%",24,46,84,NA,Smooth Ambler Spirits,"60% corn, 20% wheat, 20% malted barley","Sweet corn, caramel, vanilla, oak, spice",2
-"Ridgemont Reserve 1792 8 year old, 46.85%",25,46.9,84,1792,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, fruit",8
+"Ridgemont Reserve 1792 8 year old, 46.85%",25,46.9,84,2002,Barton 1792 Distillery,undisclosed,"caramel, vanilla, oak, spice, fruit",8
 "Fistful of Bourbon, 45%",25,45,84,2018,William Grant & Sons,undisclosed,"caramel, vanilla, spice, oak, fruity",2
 "Devils River Small Batch Texas Bourbon, 45%",25,45,84,2017,Devils River Distillery,"75% corn, 21% rye, 4% malted barley","caramel, oak, vanilla, spice",1
 "Mulligan s Bourbon, 40%",27,40,84,NA,Tennessee Distilling Group,undisclosed,"sweet, caramel, vanilla, oak",4
@@ -1203,13 +1201,13 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Smooth Ambler Wheated Bourbon, 50%",55,50,84,NA,Smooth Ambler Spirits,"71% corn, 21% wheat, 8% malted barley","caramel, vanilla, oak, soft spice",5
 "Savage & Cooke The Burning Chair Bourbon, 44%",55,44,84,2018,Savage & Cooke,"75% corn, 21% rye, 4% malted barley","caramel, vanilla, oak, spice",4.5
 "Liberty Pole Peated Bourbon, 46%",57,46,84,NA,Liberty Pole Spirits,undisclosed,"smoky, caramel, vanilla, peat, oak",2
-"Wyoming Single Barrel Bourbon (Barrel #1447), 44%",60,44,84,1447,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice",5
+"Wyoming Single Barrel Bourbon (Barrel #1447), 44%",60,44,84,2016,Wyoming Whiskey,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice",5
 "Chicken Cock Kentucky Straight Bourbon, 45%",60,45,84,NA,Grain & Barrel Spirits (distilled at Bardstown Bourbon Company),undisclosed,"caramel, vanilla, oak, spice",4
 "Berkshire Samuel Adams Cask Finished Bourbon, 43%",63,43,84,NA,Berkshire Mountain Distillers,"72% corn, 18% rye, 10% malted barley","caramel, oak, vanilla, fruit, malt",4.4
 "A.D. Laws Four Grain Straight Bourbon, 47.5%",65,47.5,84,NA,Laws Whiskey House,"60% corn, 20% wheat, 10% rye, 10% malted barley","caramel, spice, oak, vanilla, grain",3
 "Garrison Brothers Texas Bourbon Fall 2012 Release, 47%",70,47,84,2012,Garrison Brothers Distillery,undisclosed,"caramel, oak, spice, vanilla, rich",2
 "Blinking Owl California Straight Bourbon (Batch #3), 45%",75,45,84,2021,Blinking Owl Distillery,"60% corn, 30% wheat, 10% malted barley","caramel, vanilla, oak, fruit, spice",2
-"Coppersea Excelsior Straight Bourbon (Batch 1901), 48%",75,48,84,1901,Coppersea Distilling,"60% corn, 30% rye, 10% barley","caramel, spice, oak, vanilla",2
+"Coppersea Excelsior Straight Bourbon (Batch 1901), 48%",75,48,84,2019,Coppersea Distilling,"60% corn, 30% rye, 10% barley","caramel, spice, oak, vanilla",2
 "Vintage Bourbon, 23 year old, 47%",120,47,84,NA,Kentucky Bourbon Distillers (KBD/Willett),undisclosed,"oak, caramel, vanilla, spice, dried fruit",23
 "Pappy Van Winkle 23 year old Family Reserve, 47.8%",200,47.8,84,NA,Buffalo Trace Distillery,undisclosed,"oak, caramel, vanilla, spice, tobacco",23
 "Old Fitzgerald Bottled in Bond, 50%",15,50,83,NA,Heaven Hill Distillery,"68% corn, 20% wheat, 12% malted barley","caramel, vanilla, oak, spice, creamy",9
@@ -1296,7 +1294,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Chicago Distilling Blind Tiger Bourbon, 45%",65,45,81,NA,Chicago Distilling Company,undisclosed,"caramel, vanilla, oak, spice",2
 "Oregon Spirit Bottled in Bond Bourbon, 50%",75,50,81,2018,Oregon Spirit Distillers,undisclosed,"caramel, vanilla, oak, spice",4
 "Reservoir Bourbon, 50%",80,50,81,NA,Reservoir Distillery,100% corn,"sweet corn, caramel, vanilla, oak",4
-"Woodford Reserve Master's Collection 1838 Sweet Mash, 43.2%",90,43.2,81,1838,Woodford Reserve Distillery,undisclosed,"sweet, fruity, caramel, spice",7
+"Woodford Reserve Master's Collection 1838 Sweet Mash, 43.2%",90,43.2,81,2008,Woodford Reserve Distillery,undisclosed,"sweet, fruity, caramel, spice",7
 "Woodford Reserve Master s Collection Four Wood, 47.2%",100,47.2,81,2012,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","Oak, Caramel, Vanilla, Spice, Fruit",7
 "Woodford Reserve Master s Collection Sonoma-Cutrer Finish, 45.2%",100,45.2,81,2014,Woodford Reserve Distillery,"72% corn, 18% rye, 10% malted barley","fruity, vanilla, oak, spice, caramel",7
 "Bardstown Bourbon Co. Destillar  Orange Cura ao Barrel-Finished, 50%",125,50,81,2023,Bardstown Bourbon Company,undisclosed,"citrus, orange, spice, caramel",7
@@ -1343,7 +1341,7 @@ Name,Price,Abv,Rating,Year_Made,Distillery,Mash_Bill,Flavor_Profile,Aging Period
 "Parker s Heritage (distilled Fall 1990) 24 year old, 50%",250,50,78,1990,Heaven Hill Distillery,"78% Corn, 10% Rye, 12% Malted Barley","Rich, Oak, Caramel, Spicy, Vanilla",24
 "80 Strong Bourbon, 45%",22,45,77,NA,Strong Spirits Distillery,undisclosed,"caramel, vanilla, oak, spice",2
 "Hudson Valley Distillers Chancellor s Raw Bourbon, 40%",30,40,77,NA,Hudson Valley Distillers,undisclosed,"raw grain, sweet corn, caramel",1
-"Old Forester 1897 Bottled in Bond, 50%",50,50,77,1897,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, vanilla, oak, spice, fruit",4
+"Old Forester 1897 Bottled in Bond, 50%",50,50,77,NA,Old Forester Distillery,"72% corn, 18% rye, 10% malted barley","caramel, vanilla, oak, spice, fruit",4
 "Rabbit Hole PX Sherry Cask Finished, 46.5%",80,46.5,77,2023,Rabbit Hole Distillery,undisclosed,"dried fruit, caramel, spice, sherry, oak",4
 "Old Charter, 40%",17,40,76,NA,Buffalo Trace Distillery,undisclosed,"caramel, vanilla, oak, sweet corn",4
 "Jeremiah Weed Blended Bourbon, 45%",17,45,76,NA,Jeremiah Weed Distilling Co. (produced by Diageo),undisclosed,"sweet, caramel, vanilla, oak, spice",4

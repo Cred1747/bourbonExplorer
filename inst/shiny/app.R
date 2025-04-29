@@ -9,6 +9,23 @@ library(stringr)
 bourbon_data <- read_csv("BourbonData.csv")
 bourbon_data$Flavor_Profile <- tolower(bourbon_data$Flavor_Profile)
 
+# Rename column first
+bourbon_data <- bourbon_data %>%
+  rename(Release_Year = Year_Made)
+
+# Clean up Release_Year values
+bourbon_data <- bourbon_data %>%
+  mutate(
+    Release_Year = case_when(
+      is.na(Release_Year) ~ "Made Every Year",
+      str_trim(as.character(Release_Year)) == "" ~ "Made Every Year",
+      str_detect(tolower(as.character(Release_Year)), "every year|non-vintage|n/a|na") ~ "Made Every Year",
+      TRUE ~ as.character(as.integer(Release_Year))
+    )
+  )
+
+
+
 flavor_groups <- list(
   Sweet = c("vanilla", "caramel", "honey", "maple", "sugar", "brown sugar", "toffee", "fudge", "candy", "cupcake"),
   Spicy = c("spice", "cinnamon", "pepper", "clove", "ginger", "nutmeg", "heat", "zest", "jalapeno"),
@@ -65,8 +82,8 @@ ui <- fluidPage(
                             max(bourbon_data$Abv, na.rm = TRUE))),
       sliderInput("age_range", "Aging Period (Years):",
                   min = 0, max = 50, value = c(0, 50)),
-      selectInput("year_made", "Filter by Year Made:",
-                  choices = c("All", 1900:2025), selected = "All"),
+      selectInput("release_year", "Filter by Release Year:",
+                  choices = c("All", sort(unique(bourbon_data$Release_Year))), selected = "All"),
       selectInput("distillery", "Filter by Distillery:",
                   choices = c("All", sort(unique(bourbon_data$Distillery))), selected = "All"),
       checkboxGroupInput("flavor_terms", "Select Individual Flavors:", choices = flavor_terms_unique),
@@ -100,9 +117,11 @@ server <- function(input, output) {
       df <- df %>% filter(Price > 250)
     }
 
-    if (input$year_made != "All") {
-      df <- df %>% filter(Year_Made == as.numeric(input$year_made))
+    if (input$release_year != "All") {
+      df <- df %>% filter(Release_Year == input$release_year)
     }
+
+
 
     if (input$distillery != "All") {
       df <- df %>% filter(Distillery == input$distillery)
