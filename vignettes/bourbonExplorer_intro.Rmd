@@ -14,3 +14,11 @@ vignette: >
 
 ```r
 devtools::install_github("your-github-username/bourbonExplorer")
+
+# AI Usage Disclosure
+
+In accordance with course guidelines, I disclose that the `bourbonExplorer` package incorporated AI assistance during dataset enrichment. The OpenAI API (GPT-4) was utilized to:
+- Generate concise flavor profiles for each bourbon entry
+- Estimate release years when missing or unclear
+
+All AI-generated content was manually verified before inclusion. No AI tools were used to write package code, Shiny app code, or documentation structure. All R programming, app development, and package packaging were completed by the author.

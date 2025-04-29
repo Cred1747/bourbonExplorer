@@ -3,7 +3,7 @@ Title: Bourbon Explore
 Version: 0.0.0.9000
 Authors@R: 
     "Chris Reddish <ChristopherReddish@USF.edu> [aut, cre]"
-Description: The BourbonAnalytics package provides tools to explore and analyze bourbon ratings,
+Description: The BourbonExplorer package provides tools to explore and analyze bourbon ratings,
     prices, ABV, and aging. It allows users to visualize relationships between variables, predict bourbon
     ratings using regression models, identify high-value bottles, and find bourbons that outperform their
     predicted scores. The package is designed for bourbon enthusiasts and data science learners to
@@ -24,5 +24,4 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
-URL: https://github.com/Cred1747/bourbonExplorer
-BugReports: https://github.com/Cred1747/bourbonExplorer/issues
+Note: This package uses AI-assisted enhancements. Flavor profiles and release years were estimated using OpenAI GPT-4. All model-generated content was manually reviewed. No AI was used to generate code or documentation.
